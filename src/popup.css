@@ -49,14 +49,24 @@ body {
   width: 304px;
   min-height: 472px;
   margin: 0;
+  font-family: var(--font-ui);
+  font-weight: 500;
 }
 
 body {
   overflow: hidden;
+  color: var(--text);
   background:
     radial-gradient(circle at top left, var(--page-glow-left), transparent 30%),
     radial-gradient(circle at top right, var(--page-glow-right), transparent 36%),
     linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input {
+  font-family: inherit;
 }
 
 .popup-shell {

@@ -1,6 +1,8 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  // Relative asset URLs so Montserrat (and other assets) load inside chrome-extension://
+  base: "./",
   build: {
     outDir: "dist",
     emptyOutDir: true,
