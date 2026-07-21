@@ -69,9 +69,9 @@ body {
 
 .popup-header {
   display: grid;
-  grid-template-columns: 34px minmax(0, 1fr);
+  grid-template-columns: 1fr;
   gap: 10px;
-  align-items: center;
+  align-items: start;
   padding: 10px 12px;
   border: 1px solid var(--card-border);
   border-radius: 14px;
@@ -79,11 +79,36 @@ body {
   box-shadow: var(--card-shadow);
 }
 
-.app-icon {
-  width: 34px;
-  height: 34px;
-  border-radius: 10px;
-  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.34);
+.p11-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.p11-brand__mark {
+  display: block;
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.p11-brand__name {
+  display: inline-flex;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1;
+  color: var(--text);
+}
+
+.p11-brand__name::before {
+  content: "Premium";
+}
+
+.p11-brand__name::after {
+  content: "11";
+  color: #11ad32;
 }
 
 .eyebrow {
