@@ -1,3 +1,4 @@
+import "./brand-fonts.css";
 import "./suspended.css";
 import { getMessage } from "./shared/getMessage";
 import { getUiLanguage } from "./shared/get-ui-language";

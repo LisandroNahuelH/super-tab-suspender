@@ -1,3 +1,4 @@
+import "./brand-fonts.css";
 import "./popup.css";
 import {
   MAX_AUTO_SUSPEND_MINUTES,
