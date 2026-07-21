@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM മോചിപ്പിക്കുക, നിഷ്‌ക്രിയ ടാബ്"
+  },
+  "extensionDescription": {
+    "message": "ചെറിയ പുനഃസ്ഥാപന പേജ് കാണിച്ച് ടാബുകൾ താൽക്കാലികമായി നിർത്തുന്നു."
+  },
+  "contextMenuSuspendTab": {
+    "message": "ഈ ടാബ് താൽക്കാലികമായി നിർത്തുക"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "എക്സ്റ്റൻഷൻ നിയന്ത്രണങ്ങൾ"
+  },
+  "currentTabAriaLabel": {
+    "message": "നിലവിലെ ടാബ്"
+  },
+  "currentTabLoading": {
+    "message": "ലോഡ് ചെയ്യുന്നു..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "സ്വയം നിർത്തൽ"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "സ്വയം നിർത്തൽ"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "നിഷ്ക്രിയ പശ്ചാത്തല ടാബുകൾ താൽക്കാലികമായി നിർത്തുക."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "സ്വയം നിർത്തൽ പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "minutesAfterLabel": {
+    "message": "ശേഷം"
+  },
+  "minutesUnitLabel": {
+    "message": "മിനിറ്റ്"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "സംരക്ഷിത ടാബുകൾ"
+  },
+  "protectionLabel": {
+    "message": "ഇനിപ്പറയുന്ന ടാബുകൾ ഒരിക്കലും നിർത്തരുത്:"
+  },
+  "protectPinned": {
+    "message": "പിൻ ചെയ്‌തത്"
+  },
+  "protectAudio": {
+    "message": "ഓഡിയോ പ്ലേ ചെയ്യുന്നു"
+  },
+  "protectVideo": {
+    "message": "വീഡിയോ പ്ലേ ചെയ്യുന്നു"
+  },
+  "protectForms": {
+    "message": "ഫോമുകൾ പൂരിപ്പിക്കുന്നു"
+  },
+  "suspendButton": {
+    "message": "ഈ ടാബ് താൽക്കാലികമായി നിർത്തുക"
+  },
+  "suspendButtonProgress": {
+    "message": "നിർത്തുന്നു..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "ഈ ടാബ് നിർത്താൻ കഴിയില്ല"
+  },
+  "statusSuspendFailed": {
+    "message": "ഈ ടാബ് നിർത്താൻ കഴിഞ്ഞില്ല"
+  },
+  "statusCurrentTab": {
+    "message": "നിലവിലെ ടാബ്"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL ലഭ്യമല്ല"
+  },
+  "statusAutoSuspendOff": {
+    "message": "സ്വയം നിർത്തൽ ഓഫാണ്"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ മിനിറ്റിന് ശേഷം സ്വയം നിർത്തൽ",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 മുതൽ 1440 വരെ മിനിറ്റിനുള്ളിൽ ഒരു മൂല്യം നൽകുക"
+  },
+  "statusSaveFailed": {
+    "message": "സ്വയം നിർത്തൽ ക്രമീകരണങ്ങൾ സംരക്ഷിക്കാൻ കഴിഞ്ഞില്ല"
+  },
+  "suspendedPageTitle": {
+    "message": "താൽക്കാലികമായി നിർത്തിയ ടാബ്"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "നിർത്തിയത്: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "ഉദാഹരണ പേജ്"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "താൽക്കാലികമായി നിർത്തിയ ടാബ്"
+  },
+  "suspendedMissingRecord": {
+    "message": "ഈ നിർത്തിയ ടാബിന്റെ വിവരങ്ങൾ കണ്ടെത്താനായില്ല"
+  },
+  "suspendedOnPrefix": {
+    "message": "നിർത്തിയ തീയതി"
+  },
+  "restoreButton": {
+    "message": "ടാബ് പുനഃസ്ഥാപിക്കുക"
+  }
+}

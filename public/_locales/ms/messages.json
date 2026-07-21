@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Bebaskan RAM, Tangguh Tab Melahu"
+  },
+  "extensionDescription": {
+    "message": "Menggantung tab dengan memaparkan halaman pemulihan ringan."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Gantung tab ini"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Kawalan sambungan"
+  },
+  "currentTabAriaLabel": {
+    "message": "Tab semasa"
+  },
+  "currentTabLoading": {
+    "message": "Memuatkan..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Penggantungan automatik"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Penggantungan automatik"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Gantung tab latar belakang yang tidak aktif."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Dayakan penggantungan automatik"
+  },
+  "minutesAfterLabel": {
+    "message": "Selepas"
+  },
+  "minutesUnitLabel": {
+    "message": "minit"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Tab dilindungi"
+  },
+  "protectionLabel": {
+    "message": "Jangan sekali-kali gantung tab berikut:"
+  },
+  "protectPinned": {
+    "message": "Disemat"
+  },
+  "protectAudio": {
+    "message": "Memainkan audio"
+  },
+  "protectVideo": {
+    "message": "Memainkan video"
+  },
+  "protectForms": {
+    "message": "Mengisi borang"
+  },
+  "suspendButton": {
+    "message": "Gantung tab ini"
+  },
+  "suspendButtonProgress": {
+    "message": "Menggantung..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Tab ini tidak boleh digantung"
+  },
+  "statusSuspendFailed": {
+    "message": "Tidak dapat menggantung tab ini"
+  },
+  "statusCurrentTab": {
+    "message": "Tab semasa"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL tidak tersedia"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Penggantungan automatik dimatikan"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Penggantungan automatik selepas $MINUTES$ minit",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Masukkan nilai antara 1 dan 1440 minit"
+  },
+  "statusSaveFailed": {
+    "message": "Tidak dapat menyimpan tetapan penggantungan automatik"
+  },
+  "suspendedPageTitle": {
+    "message": "Tab digantung"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Digantung: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Halaman contoh"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Tab digantung"
+  },
+  "suspendedMissingRecord": {
+    "message": "Tidak dapat mencari maklumat untuk tab digantung ini"
+  },
+  "suspendedOnPrefix": {
+    "message": "Digantung pada"
+  },
+  "restoreButton": {
+    "message": "Pulihkan tab"
+  }
+}

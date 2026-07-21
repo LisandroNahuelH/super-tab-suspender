@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Frigør RAM, Paus Inaktive Faner"
+  },
+  "extensionDescription": {
+    "message": "Suspenderer faner ved at vise en let gendannelsesside."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspender denne fane"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Udvidelseskontroller"
+  },
+  "currentTabAriaLabel": {
+    "message": "Aktuel fane"
+  },
+  "currentTabLoading": {
+    "message": "Indlæser..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatisk suspendering"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatisk suspendering"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspender inaktive faner i baggrunden."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Aktivér automatisk suspendering"
+  },
+  "minutesAfterLabel": {
+    "message": "Efter"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Beskyttede faner"
+  },
+  "protectionLabel": {
+    "message": "Suspender aldrig følgende faner:"
+  },
+  "protectPinned": {
+    "message": "Fastgjorte"
+  },
+  "protectAudio": {
+    "message": "Afspiller lyd"
+  },
+  "protectVideo": {
+    "message": "Afspiller video"
+  },
+  "protectForms": {
+    "message": "Udfylder formularer"
+  },
+  "suspendButton": {
+    "message": "Suspender denne fane"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspenderer..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Denne fane kan ikke suspenderes"
+  },
+  "statusSuspendFailed": {
+    "message": "Kunne ikke suspendere denne fane"
+  },
+  "statusCurrentTab": {
+    "message": "Aktuel fane"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adresse ikke tilgængelig"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatisk suspendering er slået fra"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatisk suspendering efter $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Indtast en værdi mellem 1 og 1440 minutter"
+  },
+  "statusSaveFailed": {
+    "message": "Kunne ikke gemme indstillinger for automatisk suspendering"
+  },
+  "suspendedPageTitle": {
+    "message": "Suspenderet fane"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspenderet: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Eksempelside"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Suspenderet fane"
+  },
+  "suspendedMissingRecord": {
+    "message": "Kunne ikke finde oplysningerne for denne suspenderede fane"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspenderet den"
+  },
+  "restoreButton": {
+    "message": "Gendan fane"
+  }
+}

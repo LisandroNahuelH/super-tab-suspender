@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM ነፃ፣ ትሮችን አቁም"
+  },
+  "extensionDescription": {
+    "message": "ቀላል የመመለሻ ገጽ በማሳየት ትሮችን ያቆማል።"
+  },
+  "contextMenuSuspendTab": {
+    "message": "ይህን ትር ያቆሙ"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "የቅጥያዊ መተግበሪያ መቆጣጠሪያዎች"
+  },
+  "currentTabAriaLabel": {
+    "message": "የአሁኑ ትር"
+  },
+  "currentTabLoading": {
+    "message": "በመጫን ላይ..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "ራስ-ሰር ማቆም"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "ራስ-ሰር ማቆም"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "ንቁ ያልሆኑ የጀርባ ትሮችን ያቆሙ።"
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "ራስ-ሰር ማቆምን አንቃ"
+  },
+  "minutesAfterLabel": {
+    "message": "ከ"
+  },
+  "minutesUnitLabel": {
+    "message": "ደቂ."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "የተጠበቁ ትሮች"
+  },
+  "protectionLabel": {
+    "message": "የሚከተሉትን ትሮች በጭራረት አታቆም:"
+  },
+  "protectPinned": {
+    "message": "የተሰኩ"
+  },
+  "protectAudio": {
+    "message": "ድምጽ በመጫወት ላይ"
+  },
+  "protectVideo": {
+    "message": "ቪዲዮ በመጫወት ላይ"
+  },
+  "protectForms": {
+    "message": "ቅጾችን በመሙላት ላይ"
+  },
+  "suspendButton": {
+    "message": "ይህን ትር ያቆሙ"
+  },
+  "suspendButtonProgress": {
+    "message": "በማቆም ላይ..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "ይህ ትር ሊቆም አይችልም"
+  },
+  "statusSuspendFailed": {
+    "message": "ይህን ትር ማቆም አልተቻለም"
+  },
+  "statusCurrentTab": {
+    "message": "የአሁኑ ትር"
+  },
+  "statusUrlUnavailable": {
+    "message": "አገናኝ አይገኝም"
+  },
+  "statusAutoSuspendOff": {
+    "message": "ራስ-ሰር ማቆም ጠፍቷል"
+  },
+  "statusAutoSuspendOn": {
+    "message": "ከ $MINUTES$ ደቂ. በኋላ ራስ-ሰር ማቆም",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "ከ 1 እስከ 1440 ደቂቃ መካከል ያስገቡ"
+  },
+  "statusSaveFailed": {
+    "message": "የራስ-ሰር ማቆም ቅንብሮችን ማስቀመጥ አልተቻለም"
+  },
+  "suspendedPageTitle": {
+    "message": "የቆመ ትር"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "ቆሟል፡ $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "ምሳሌ ገጽ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "የቆመ ትር"
+  },
+  "suspendedMissingRecord": {
+    "message": "ለዚህ የቆመ ትር መረጃ ማግኘት አልተቻለም"
+  },
+  "suspendedOnPrefix": {
+    "message": "ቆሟል በ"
+  },
+  "restoreButton": {
+    "message": "ትርን መልስ"
+  }
+}

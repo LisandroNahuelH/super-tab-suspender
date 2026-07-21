@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM મુક્ત, નિષ્ક્રિય ટેબ અટકાવો"
+  },
+  "extensionDescription": {
+    "message": "હળવું પુનઃસ્થાપન પૃષ્ઠ બતાવીને ટૅબ્સ નિષ્ક્રિય કરે છે."
+  },
+  "contextMenuSuspendTab": {
+    "message": "આ ટૅબ નિષ્ક્રિય કરો"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "એક્સ્ટેન્શન નિયંત્રણો"
+  },
+  "currentTabAriaLabel": {
+    "message": "વર્તમાન ટૅબ"
+  },
+  "currentTabLoading": {
+    "message": "લોડ થઈ રહ્યું છે..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "સ્વચાલિત નિષ્ક્રિયતા"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "સ્વચાલિત નિષ્ક્રિયતા"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "નિષ્ક્રિય પૃષ્ઠભૂમિ ટૅબ્સ નિષ્ક્રિય કરો."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "સ્વચાલિત નિષ્ક્રિયતા સક્ષમ કરો"
+  },
+  "minutesAfterLabel": {
+    "message": "પછી"
+  },
+  "minutesUnitLabel": {
+    "message": "મિનિટ"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "સુરક્ષિત ટૅબ્સ"
+  },
+  "protectionLabel": {
+    "message": "નીચેના ટૅબ્સ ક્યારેય નિષ્ક્રિય ન કરો:"
+  },
+  "protectPinned": {
+    "message": "પિન કરેલા"
+  },
+  "protectAudio": {
+    "message": "ઑડિયો ચાલી રહ્યું છે"
+  },
+  "protectVideo": {
+    "message": "વિડિયો ચાલી રહ્યું છે"
+  },
+  "protectForms": {
+    "message": "ફોર્મ ભરી રહ્યા છે"
+  },
+  "suspendButton": {
+    "message": "આ ટૅબ નિષ્ક્રિય કરો"
+  },
+  "suspendButtonProgress": {
+    "message": "નિષ્ક્રિય થઈ રહ્યું છે..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "આ ટૅબ નિષ્ક્રિય કરી શકાતી નથી"
+  },
+  "statusSuspendFailed": {
+    "message": "આ ટૅબ નિષ્ક્રિય કરી શકાઈ નહીં"
+  },
+  "statusCurrentTab": {
+    "message": "વર્તમાન ટૅબ"
+  },
+  "statusUrlUnavailable": {
+    "message": "સરનામું ઉપલબ્ધ નથી"
+  },
+  "statusAutoSuspendOff": {
+    "message": "સ્વચાલિત નિષ્ક્રિયતા બંધ છે"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ મિનિટ પછી સ્વચાલિત નિષ્ક્રિયતા",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 થી 1440 મિનિટ વચ્ચે મૂલ્ય દાખલ કરો"
+  },
+  "statusSaveFailed": {
+    "message": "સ્વચાલિત નિષ્ક્રિયતાની સેટિંગ્સ સાચવી શકાઈ નહીં"
+  },
+  "suspendedPageTitle": {
+    "message": "નિષ્ક્રિય ટૅબ"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "નિષ્ક્રિય: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "ઉદાહરણ પૃષ્ઠ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "નિષ્ક્રિય ટૅબ"
+  },
+  "suspendedMissingRecord": {
+    "message": "આ નિષ્ક્રિય ટૅબ માટે માહિતી મળી નહીં"
+  },
+  "suspendedOnPrefix": {
+    "message": "નિષ્ક્રિય કર્યું"
+  },
+  "restoreButton": {
+    "message": "ટૅબ પુનઃસ્થાપિત કરો"
+  }
+}

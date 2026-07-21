@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: آزادسازی RAM، تعلیق تب‌های بیکار"
+  },
+  "extensionDescription": {
+    "message": "با نمایش صفحهٔ بازیابی سبک، زبانه‌ها را معلق می‌کند."
+  },
+  "contextMenuSuspendTab": {
+    "message": "معلق کردن این زبانه"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "کنترل‌های افزونه"
+  },
+  "currentTabAriaLabel": {
+    "message": "زبانهٔ فعلی"
+  },
+  "currentTabLoading": {
+    "message": "در حال بارگذاری..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "تعلیق خودکار"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "تعلیق خودکار"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "زبانه‌های پس‌زمینهٔ غیرفعال را معلق کنید."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "فعال‌سازی تعلیق خودکار"
+  },
+  "minutesAfterLabel": {
+    "message": "پس از"
+  },
+  "minutesUnitLabel": {
+    "message": "دقیقه"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "زبانه‌های محافظت‌شده"
+  },
+  "protectionLabel": {
+    "message": "هرگز زبانه‌های زیر را معلق نکنید:"
+  },
+  "protectPinned": {
+    "message": "سنجاق‌شده"
+  },
+  "protectAudio": {
+    "message": "در حال پخش صدا"
+  },
+  "protectVideo": {
+    "message": "در حال پخش ویدیو"
+  },
+  "protectForms": {
+    "message": "در حال پر کردن فرم"
+  },
+  "suspendButton": {
+    "message": "معلق کردن این زبانه"
+  },
+  "suspendButtonProgress": {
+    "message": "در حال تعلیق..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "این زبانه قابل تعلیق نیست"
+  },
+  "statusSuspendFailed": {
+    "message": "تعلیق این زبانه ممکن نشد"
+  },
+  "statusCurrentTab": {
+    "message": "زبانهٔ فعلی"
+  },
+  "statusUrlUnavailable": {
+    "message": "نشانی وب در دسترس نیست"
+  },
+  "statusAutoSuspendOff": {
+    "message": "تعلیق خودکار خاموش است"
+  },
+  "statusAutoSuspendOn": {
+    "message": "تعلیق خودکار پس از $MINUTES$ دقیقه",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "مقداری بین ۱ تا ۱۴۴۰ دقیقه وارد کنید"
+  },
+  "statusSaveFailed": {
+    "message": "ذخیرهٔ تنظیمات تعلیق خودکار ممکن نشد"
+  },
+  "suspendedPageTitle": {
+    "message": "زبانهٔ معلق"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "معلق: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "صفحهٔ نمونه"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "زبانهٔ معلق"
+  },
+  "suspendedMissingRecord": {
+    "message": "اطلاعات این زبانهٔ معلق یافت نشد"
+  },
+  "suspendedOnPrefix": {
+    "message": "معلق‌شده در"
+  },
+  "restoreButton": {
+    "message": "بازیابی زبانه"
+  }
+}

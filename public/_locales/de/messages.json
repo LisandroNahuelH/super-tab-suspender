@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM Freigeben, Inaktive Tabs Pausieren"
+  },
+  "extensionDescription": {
+    "message": "Pausiert Tabs durch Anzeige einer leichten Wiederherstellungsseite."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Diesen Tab pausieren"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Erweiterungssteuerung"
+  },
+  "currentTabAriaLabel": {
+    "message": "Aktueller Tab"
+  },
+  "currentTabLoading": {
+    "message": "Wird geladen..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatisches Pausieren"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatisches Pausieren"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Inaktive Hintergrund-Tabs pausieren."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Automatisches Pausieren aktivieren"
+  },
+  "minutesAfterLabel": {
+    "message": "Nach"
+  },
+  "minutesUnitLabel": {
+    "message": "Min."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Geschützte Tabs"
+  },
+  "protectionLabel": {
+    "message": "Folgende Tabs niemals pausieren:"
+  },
+  "protectPinned": {
+    "message": "Angeheftet"
+  },
+  "protectAudio": {
+    "message": "Audio wird abgespielt"
+  },
+  "protectVideo": {
+    "message": "Video wird abgespielt"
+  },
+  "protectForms": {
+    "message": "Formulare werden ausgefüllt"
+  },
+  "suspendButton": {
+    "message": "Diesen Tab pausieren"
+  },
+  "suspendButtonProgress": {
+    "message": "Wird pausiert..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Dieser Tab kann nicht pausiert werden"
+  },
+  "statusSuspendFailed": {
+    "message": "Dieser Tab konnte nicht pausiert werden"
+  },
+  "statusCurrentTab": {
+    "message": "Aktueller Tab"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adresse nicht verfügbar"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatisches Pausieren ist deaktiviert"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatisch pausieren nach $MINUTES$ Min.",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Geben Sie einen Wert zwischen 1 und 1440 Minuten ein"
+  },
+  "statusSaveFailed": {
+    "message": "Einstellungen für automatisches Pausieren konnten nicht gespeichert werden"
+  },
+  "suspendedPageTitle": {
+    "message": "Pausierter Tab"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Pausiert: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Beispielseite"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Pausierter Tab"
+  },
+  "suspendedMissingRecord": {
+    "message": "Informationen für diesen pausierten Tab konnten nicht gefunden werden"
+  },
+  "suspendedOnPrefix": {
+    "message": "Pausiert am"
+  },
+  "restoreButton": {
+    "message": "Tab wiederherstellen"
+  }
+}

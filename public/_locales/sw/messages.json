@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Komboa RAM, Simamisha Tab Zisizotumika"
+  },
+  "extensionDescription": {
+    "message": "Husimamisha vichupo kwa kuonyesha ukurasa mwepesi wa kurejesha."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Simamisha kichupo hiki"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Vidhibiti vya kiendelezi"
+  },
+  "currentTabAriaLabel": {
+    "message": "Kichupo cha sasa"
+  },
+  "currentTabLoading": {
+    "message": "Inapakia..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Kusimamisha kiotomatiki"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Kusimamisha kiotomatiki"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Simamisha vichupo vya mandhari visivyotumika."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Washa kusimamisha kiotomatiki"
+  },
+  "minutesAfterLabel": {
+    "message": "Baada ya"
+  },
+  "minutesUnitLabel": {
+    "message": "dak"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Vichupo vilivyolindwa"
+  },
+  "protectionLabel": {
+    "message": "Usisimamishe vichupo vifuatavyo:"
+  },
+  "protectPinned": {
+    "message": "Vilivyobandikwa"
+  },
+  "protectAudio": {
+    "message": "Vinacheza sauti"
+  },
+  "protectVideo": {
+    "message": "Vinacheza video"
+  },
+  "protectForms": {
+    "message": "Vinajaza fomu"
+  },
+  "suspendButton": {
+    "message": "Simamisha kichupo hiki"
+  },
+  "suspendButtonProgress": {
+    "message": "Inasimamisha..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Kichupo hiki hakiwezi kusimamishwa"
+  },
+  "statusSuspendFailed": {
+    "message": "Haikuweza kusimamisha kichupo hiki"
+  },
+  "statusCurrentTab": {
+    "message": "Kichupo cha sasa"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL haipatikani"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Kusimamisha kiotomatiki kumezimwa"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Kusimamisha kiotomatiki baada ya dakika $MINUTES$",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Weka thamani kati ya dakika 1 na 1440"
+  },
+  "statusSaveFailed": {
+    "message": "Haikuweza kuhifadhi mipangilio ya kusimamisha kiotomatiki"
+  },
+  "suspendedPageTitle": {
+    "message": "Kichupo kilichosimamishwa"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Kimesimamishwa: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Ukurasa wa mfano"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Kichupo kilichosimamishwa"
+  },
+  "suspendedMissingRecord": {
+    "message": "Haikuweza kupata taarifa za kichupo hiki kilichosimamishwa"
+  },
+  "suspendedOnPrefix": {
+    "message": "Kilisimamishwa"
+  },
+  "restoreButton": {
+    "message": "Rejesha kichupo"
+  }
+}

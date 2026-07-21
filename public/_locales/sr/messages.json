@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Oslobodi RAM, Obustavi Neaktivne Kartice"
+  },
+  "extensionDescription": {
+    "message": "Обуставља језичке приказом лаке странице за обнову."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Обустави овај језичак"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Контроле екстензије"
+  },
+  "currentTabAriaLabel": {
+    "message": "Тренутни језичак"
+  },
+  "currentTabLoading": {
+    "message": "Учитавање..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Аутоматско обустављање"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Аутоматско обустављање"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Обустављај неактивне језичке у позадини."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Омогући аутоматско обустављање"
+  },
+  "minutesAfterLabel": {
+    "message": "После"
+  },
+  "minutesUnitLabel": {
+    "message": "мин"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Заштићени језичци"
+  },
+  "protectionLabel": {
+    "message": "Никад не обустављај следеће језичке:"
+  },
+  "protectPinned": {
+    "message": "Закачени"
+  },
+  "protectAudio": {
+    "message": "Репродукује звук"
+  },
+  "protectVideo": {
+    "message": "Репродукује видео"
+  },
+  "protectForms": {
+    "message": "Попуњава обрасце"
+  },
+  "suspendButton": {
+    "message": "Обустави овај језичак"
+  },
+  "suspendButtonProgress": {
+    "message": "Обустављање..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Овај језичак не може бити обустављен"
+  },
+  "statusSuspendFailed": {
+    "message": "Није могуће обуставити овај језичак"
+  },
+  "statusCurrentTab": {
+    "message": "Тренутни језичак"
+  },
+  "statusUrlUnavailable": {
+    "message": "Адреса није доступна"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Аутоматско обустављање је искључено"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Аутоматско обустављање после $MINUTES$ мин",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Унесите вредност између 1 и 1440 минута"
+  },
+  "statusSaveFailed": {
+    "message": "Није могуће сачувати подешавања аутоматског обустављања"
+  },
+  "suspendedPageTitle": {
+    "message": "Обустављени језичак"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Обустављено: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Пример странице"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Обустављени језичак"
+  },
+  "suspendedMissingRecord": {
+    "message": "Није могуће пронаћи информације за овај обустављени језичак"
+  },
+  "suspendedOnPrefix": {
+    "message": "Обустављено"
+  },
+  "restoreButton": {
+    "message": "Врати језичак"
+  }
+}

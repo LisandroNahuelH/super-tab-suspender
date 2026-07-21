@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Освободи RAM, Спящие Вкладки"
+  },
+  "extensionDescription": {
+    "message": "Приостанавливает вкладки, показывая лёгкую страницу восстановления."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Приостановить эту вкладку"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Управление расширением"
+  },
+  "currentTabAriaLabel": {
+    "message": "Текущая вкладка"
+  },
+  "currentTabLoading": {
+    "message": "Загрузка..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Автоматическая приостановка"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Автоматическая приостановка"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Приостанавливать неактивные вкладки в фоне."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Включить автоматическую приостановку"
+  },
+  "minutesAfterLabel": {
+    "message": "Через"
+  },
+  "minutesUnitLabel": {
+    "message": "мин"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Защищённые вкладки"
+  },
+  "protectionLabel": {
+    "message": "Никогда не приостанавливать следующие вкладки:"
+  },
+  "protectPinned": {
+    "message": "Закреплённые"
+  },
+  "protectAudio": {
+    "message": "Воспроизведение звука"
+  },
+  "protectVideo": {
+    "message": "Воспроизведение видео"
+  },
+  "protectForms": {
+    "message": "Заполнение форм"
+  },
+  "suspendButton": {
+    "message": "Приостановить эту вкладку"
+  },
+  "suspendButtonProgress": {
+    "message": "Приостановка..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Эту вкладку нельзя приостановить"
+  },
+  "statusSuspendFailed": {
+    "message": "Не удалось приостановить эту вкладку"
+  },
+  "statusCurrentTab": {
+    "message": "Текущая вкладка"
+  },
+  "statusUrlUnavailable": {
+    "message": "Адрес недоступен"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Автоприостановка отключена"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Автоприостановка через $MINUTES$ мин",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Введите значение от 1 до 1440 минут"
+  },
+  "statusSaveFailed": {
+    "message": "Не удалось сохранить настройки автоприостановки"
+  },
+  "suspendedPageTitle": {
+    "message": "Приостановленная вкладка"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Приостановлено: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Пример страницы"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Приостановленная вкладка"
+  },
+  "suspendedMissingRecord": {
+    "message": "Не удалось найти информацию об этой приостановленной вкладке"
+  },
+  "suspendedOnPrefix": {
+    "message": "Приостановлено"
+  },
+  "restoreButton": {
+    "message": "Восстановить вкладку"
+  }
+}

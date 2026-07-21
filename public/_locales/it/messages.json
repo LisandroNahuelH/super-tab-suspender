@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Libera RAM, Sospendi Schede Inattive"
+  },
+  "extensionDescription": {
+    "message": "Sospende le schede mostrando una pagina leggera di ripristino."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Sospendi questa scheda"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Controlli dell'estensione"
+  },
+  "currentTabAriaLabel": {
+    "message": "Scheda corrente"
+  },
+  "currentTabLoading": {
+    "message": "Caricamento..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Sospensione automatica"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Sospensione automatica"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Sospendi le schede inattive in background."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Abilita la sospensione automatica"
+  },
+  "minutesAfterLabel": {
+    "message": "Dopo"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Schede protette"
+  },
+  "protectionLabel": {
+    "message": "Non sospendere mai le seguenti schede:"
+  },
+  "protectPinned": {
+    "message": "Bloccate"
+  },
+  "protectAudio": {
+    "message": "Audio in riproduzione"
+  },
+  "protectVideo": {
+    "message": "Video in riproduzione"
+  },
+  "protectForms": {
+    "message": "Moduli in compilazione"
+  },
+  "suspendButton": {
+    "message": "Sospendi questa scheda"
+  },
+  "suspendButtonProgress": {
+    "message": "Sospensione in corso..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Questa scheda non può essere sospesa"
+  },
+  "statusSuspendFailed": {
+    "message": "Impossibile sospendere questa scheda"
+  },
+  "statusCurrentTab": {
+    "message": "Scheda corrente"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL non disponibile"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Sospensione automatica disattivata"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Sospensione automatica dopo $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Inserisci un valore tra 1 e 1440 minuti"
+  },
+  "statusSaveFailed": {
+    "message": "Impossibile salvare le impostazioni di sospensione automatica"
+  },
+  "suspendedPageTitle": {
+    "message": "Scheda sospesa"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Sospesa: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Pagina di esempio"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Scheda sospesa"
+  },
+  "suspendedMissingRecord": {
+    "message": "Impossibile trovare le informazioni per questa scheda sospesa"
+  },
+  "suspendedOnPrefix": {
+    "message": "Sospesa il"
+  },
+  "restoreButton": {
+    "message": "Ripristina scheda"
+  }
+}

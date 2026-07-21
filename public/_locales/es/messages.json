@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Libera RAM, Suspende Pestañas Inactivas"
+  },
+  "extensionDescription": {
+    "message": "Suspende pestañas mostrando una página ligera de restauración."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspender esta pestaña"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Controles de la extensión"
+  },
+  "currentTabAriaLabel": {
+    "message": "Pestaña actual"
+  },
+  "currentTabLoading": {
+    "message": "Cargando..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Suspensión automática"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Suspensión automática"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspende las pestañas en segundo plano inactivas."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Activar suspensión automática"
+  },
+  "minutesAfterLabel": {
+    "message": "Después de"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Pestañas protegidas"
+  },
+  "protectionLabel": {
+    "message": "No suspender nunca las siguientes pestañas:"
+  },
+  "protectPinned": {
+    "message": "Fijadas"
+  },
+  "protectAudio": {
+    "message": "Reproduciendo audio"
+  },
+  "protectVideo": {
+    "message": "Reproduciendo vídeo"
+  },
+  "protectForms": {
+    "message": "Rellenando formularios"
+  },
+  "suspendButton": {
+    "message": "Suspender esta pestaña"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspendiendo..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Esta pestaña no se puede suspender"
+  },
+  "statusSuspendFailed": {
+    "message": "No se pudo suspender esta pestaña"
+  },
+  "statusCurrentTab": {
+    "message": "Pestaña actual"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL no disponible"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Suspensión automática desactivada"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Suspensión automática después de $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Introduce un valor entre 1 y 1440 minutos"
+  },
+  "statusSaveFailed": {
+    "message": "No se pudieron guardar los ajustes de suspensión automática"
+  },
+  "suspendedPageTitle": {
+    "message": "Pestaña suspendida"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspendida: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Página de ejemplo"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Pestaña suspendida"
+  },
+  "suspendedMissingRecord": {
+    "message": "No se pudo encontrar la información de esta pestaña suspendida"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspendida el"
+  },
+  "restoreButton": {
+    "message": "Restaurar pestaña"
+  }
+}

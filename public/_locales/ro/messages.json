@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Eliberează RAM, Suspendă File Inactive"
+  },
+  "extensionDescription": {
+    "message": "Suspendă filele afișând o pagină ușoară de restaurare."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspendă această filă"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Controale extensie"
+  },
+  "currentTabAriaLabel": {
+    "message": "Filă curentă"
+  },
+  "currentTabLoading": {
+    "message": "Se încarcă..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Suspendare automată"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Suspendare automată"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspendă filele inactive din fundal."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Activează suspendarea automată"
+  },
+  "minutesAfterLabel": {
+    "message": "După"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "File protejate"
+  },
+  "protectionLabel": {
+    "message": "Nu suspenda niciodată următoarele file:"
+  },
+  "protectPinned": {
+    "message": "Fixate"
+  },
+  "protectAudio": {
+    "message": "Redare audio"
+  },
+  "protectVideo": {
+    "message": "Redare video"
+  },
+  "protectForms": {
+    "message": "Completare formulare"
+  },
+  "suspendButton": {
+    "message": "Suspendă această filă"
+  },
+  "suspendButtonProgress": {
+    "message": "Se suspendă..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Această filă nu poate fi suspendată"
+  },
+  "statusSuspendFailed": {
+    "message": "Nu s-a putut suspenda această filă"
+  },
+  "statusCurrentTab": {
+    "message": "Filă curentă"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adresă URL indisponibilă"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Suspendarea automată este dezactivată"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Suspendare automată după $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Introduceți o valoare între 1 și 1440 minute"
+  },
+  "statusSaveFailed": {
+    "message": "Nu s-au putut salva setările de suspendare automată"
+  },
+  "suspendedPageTitle": {
+    "message": "Filă suspendată"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspendată: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Pagină de exemplu"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Filă suspendată"
+  },
+  "suspendedMissingRecord": {
+    "message": "Nu s-au putut găsi informațiile pentru această filă suspendată"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspendată la"
+  },
+  "restoreButton": {
+    "message": "Restaurează fila"
+  }
+}

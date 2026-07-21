@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Bebaskan RAM, Tangguhkan Tab Idle"
+  },
+  "extensionDescription": {
+    "message": "Menangguhkan tab dengan menampilkan halaman pemulihan ringan."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Tangguhkan tab ini"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Kontrol ekstensi"
+  },
+  "currentTabAriaLabel": {
+    "message": "Tab saat ini"
+  },
+  "currentTabLoading": {
+    "message": "Memuat..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Penangguhan otomatis"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Penangguhan otomatis"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Tangguhkan tab latar belakang yang tidak aktif."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Aktifkan penangguhan otomatis"
+  },
+  "minutesAfterLabel": {
+    "message": "Setelah"
+  },
+  "minutesUnitLabel": {
+    "message": "mnt"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Tab terlindungi"
+  },
+  "protectionLabel": {
+    "message": "Jangan pernah menangguhkan tab berikut:"
+  },
+  "protectPinned": {
+    "message": "Disematkan"
+  },
+  "protectAudio": {
+    "message": "Memutar audio"
+  },
+  "protectVideo": {
+    "message": "Memutar video"
+  },
+  "protectForms": {
+    "message": "Mengisi formulir"
+  },
+  "suspendButton": {
+    "message": "Tangguhkan tab ini"
+  },
+  "suspendButtonProgress": {
+    "message": "Menangguhkan..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Tab ini tidak dapat ditangguhkan"
+  },
+  "statusSuspendFailed": {
+    "message": "Tidak dapat menangguhkan tab ini"
+  },
+  "statusCurrentTab": {
+    "message": "Tab saat ini"
+  },
+  "statusUrlUnavailable": {
+    "message": "Alamat tidak tersedia"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Penangguhan otomatis nonaktif"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Penangguhan otomatis setelah $MINUTES$ mnt",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Masukkan nilai antara 1 dan 1440 menit"
+  },
+  "statusSaveFailed": {
+    "message": "Tidak dapat menyimpan pengaturan penangguhan otomatis"
+  },
+  "suspendedPageTitle": {
+    "message": "Tab ditangguhkan"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Ditangguhkan: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Halaman contoh"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Tab ditangguhkan"
+  },
+  "suspendedMissingRecord": {
+    "message": "Tidak dapat menemukan informasi untuk tab yang ditangguhkan ini"
+  },
+  "suspendedOnPrefix": {
+    "message": "Ditangguhkan pada"
+  },
+  "restoreButton": {
+    "message": "Pulihkan tab"
+  }
+}

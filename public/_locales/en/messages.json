@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Free RAM, Auto Suspend Idle Tabs"
+  },
+  "extensionDescription": {
+    "message": "Suspends tabs by showing a lightweight restore page."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspend this tab"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Extension controls"
+  },
+  "currentTabAriaLabel": {
+    "message": "Current tab"
+  },
+  "currentTabLoading": {
+    "message": "Loading..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatic suspension"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatic suspension"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspend inactive background tabs."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Enable automatic suspension"
+  },
+  "minutesAfterLabel": {
+    "message": "After"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Protected tabs"
+  },
+  "protectionLabel": {
+    "message": "Never suspend the following tabs:"
+  },
+  "protectPinned": {
+    "message": "Pinned"
+  },
+  "protectAudio": {
+    "message": "Playing audio"
+  },
+  "protectVideo": {
+    "message": "Playing video"
+  },
+  "protectForms": {
+    "message": "Filling forms"
+  },
+  "suspendButton": {
+    "message": "Suspend this tab"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspending..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "This tab cannot be suspended"
+  },
+  "statusSuspendFailed": {
+    "message": "Could not suspend this tab"
+  },
+  "statusCurrentTab": {
+    "message": "Current tab"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL unavailable"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Auto-suspend is off"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Auto-suspend after $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Enter a value between 1 and 1440 minutes"
+  },
+  "statusSaveFailed": {
+    "message": "Could not save auto-suspend settings"
+  },
+  "suspendedPageTitle": {
+    "message": "Suspended tab"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspended: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Example page"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Suspended tab"
+  },
+  "suspendedMissingRecord": {
+    "message": "Could not find the information for this suspended tab"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspended on"
+  },
+  "restoreButton": {
+    "message": "Restore tab"
+  }
+}

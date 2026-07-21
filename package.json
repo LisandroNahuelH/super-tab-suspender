@@ -1,0 +1,27 @@
+{
+  "name": "super-tab-suspender",
+  "version": "0.2.9",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm run i18n:check && npm run i18n:audit && npm run i18n:audit-literals && vite build",
+    "icons": "node scripts/generate-icons.mjs",
+    "i18n:bootstrap": "node tools/i18n/bootstrap-all-locales.mjs",
+    "i18n:check": "node tools/i18n/check-i18n.mjs && node tools/i18n/audit-title-case.mjs",
+    "i18n:fix-brand": "node tools/i18n/fix-brand-name.mjs",
+    "package:release": "node tools/package-release.mjs",
+    "typecheck": "tsc --noEmit",
+    "i18n:audit": "node tools/i18n/audit-translations.mjs",
+    "i18n:audit-literals": "node tools/i18n/audit-literals.mjs",
+    "test": "vitest run",
+    "verify": "npm run i18n:check && npm run i18n:audit && npm run i18n:audit-literals && npm run typecheck && npm run test && npm run build"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.326",
+    "happy-dom": "^20.0.10",
+    "sharp": "^0.35.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.7",
+    "vitest": "^3.2.4"
+  }
+}

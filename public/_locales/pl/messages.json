@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Zwolnij RAM, Wstrzymaj Bezczynne Karty"
+  },
+  "extensionDescription": {
+    "message": "Zawiesza karty, wyświetlając lekką stronę przywracania."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Zawieś tę kartę"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Sterowanie rozszerzeniem"
+  },
+  "currentTabAriaLabel": {
+    "message": "Bieżąca karta"
+  },
+  "currentTabLoading": {
+    "message": "Ładowanie..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatyczne zawieszanie"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatyczne zawieszanie"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Zawieszaj nieaktywne karty w tle."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Włącz automatyczne zawieszanie"
+  },
+  "minutesAfterLabel": {
+    "message": "Po"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Chronione karty"
+  },
+  "protectionLabel": {
+    "message": "Nigdy nie zawieszaj następujących kart:"
+  },
+  "protectPinned": {
+    "message": "Przypięte"
+  },
+  "protectAudio": {
+    "message": "Odtwarzające dźwięk"
+  },
+  "protectVideo": {
+    "message": "Odtwarzające wideo"
+  },
+  "protectForms": {
+    "message": "Wypełniające formularze"
+  },
+  "suspendButton": {
+    "message": "Zawieś tę kartę"
+  },
+  "suspendButtonProgress": {
+    "message": "Zawieszanie..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Tej karty nie można zawiesić"
+  },
+  "statusSuspendFailed": {
+    "message": "Nie udało się zawiesić tej karty"
+  },
+  "statusCurrentTab": {
+    "message": "Bieżąca karta"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adres URL niedostępny"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatyczne zawieszanie wyłączone"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatyczne zawieszanie po $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Wprowadź wartość od 1 do 1440 minut"
+  },
+  "statusSaveFailed": {
+    "message": "Nie udało się zapisać ustawień automatycznego zawieszania"
+  },
+  "suspendedPageTitle": {
+    "message": "Zawieszona karta"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Zawieszona: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Przykładowa strona"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Zawieszona karta"
+  },
+  "suspendedMissingRecord": {
+    "message": "Nie znaleziono informacji o tej zawieszonej karcie"
+  },
+  "suspendedOnPrefix": {
+    "message": "Zawieszono dnia"
+  },
+  "restoreButton": {
+    "message": "Przywróć kartę"
+  }
+}

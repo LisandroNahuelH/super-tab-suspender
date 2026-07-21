@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Vabasta RAM, Peata Passiivsed Sakid"
+  },
+  "extensionDescription": {
+    "message": "Peatab vahelehed, kuvades kerget taastamislehte."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Peata see vaheleht"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Laienduse juhtelemendid"
+  },
+  "currentTabAriaLabel": {
+    "message": "Praegune vaheleht"
+  },
+  "currentTabLoading": {
+    "message": "Laadimine..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automaatne peatamine"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automaatne peatamine"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Peatab mitteaktiivsed taustavahelehed."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Luba automaatne peatamine"
+  },
+  "minutesAfterLabel": {
+    "message": "Pärast"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Kaitstud vahelehed"
+  },
+  "protectionLabel": {
+    "message": "Ära peata kunagi järgmisi vahelehti:"
+  },
+  "protectPinned": {
+    "message": "Kinnitatud"
+  },
+  "protectAudio": {
+    "message": "Esitab heli"
+  },
+  "protectVideo": {
+    "message": "Esitab videot"
+  },
+  "protectForms": {
+    "message": "Täidab vorme"
+  },
+  "suspendButton": {
+    "message": "Peata see vaheleht"
+  },
+  "suspendButtonProgress": {
+    "message": "Peatamine..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Seda vahelehte ei saa peatada"
+  },
+  "statusSuspendFailed": {
+    "message": "Seda vahelehte ei õnnestunud peatada"
+  },
+  "statusCurrentTab": {
+    "message": "Praegune vaheleht"
+  },
+  "statusUrlUnavailable": {
+    "message": "Aadress pole saadaval"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automaatne peatamine on väljas"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automaatne peatamine pärast $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Sisestage väärtus vahemikus 1–1440 minutit"
+  },
+  "statusSaveFailed": {
+    "message": "Automaatse peatamise seadeid ei õnnestunud salvestada"
+  },
+  "suspendedPageTitle": {
+    "message": "Peatatud vaheleht"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Peatatud: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Näidisleht"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Peatatud vaheleht"
+  },
+  "suspendedMissingRecord": {
+    "message": "Selle peatatud vahelehe teavet ei leitud"
+  },
+  "suspendedOnPrefix": {
+    "message": "Peatatud:"
+  },
+  "restoreButton": {
+    "message": "Taasta vaheleht"
+  }
+}

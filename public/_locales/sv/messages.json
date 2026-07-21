@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Frigör RAM, Pausa Inaktiva Flikar"
+  },
+  "extensionDescription": {
+    "message": "Suspenderar flikar genom att visa en lätt återställningssida."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspendera den här fliken"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Tilläggskontroller"
+  },
+  "currentTabAriaLabel": {
+    "message": "Aktuell flik"
+  },
+  "currentTabLoading": {
+    "message": "Läser in..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatisk suspendering"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatisk suspendering"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspendera inaktiva bakgrundsflikar."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Aktivera automatisk suspendering"
+  },
+  "minutesAfterLabel": {
+    "message": "Efter"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Skyddade flikar"
+  },
+  "protectionLabel": {
+    "message": "Suspendera aldrig följande flikar:"
+  },
+  "protectPinned": {
+    "message": "Fäst"
+  },
+  "protectAudio": {
+    "message": "Spelar ljud"
+  },
+  "protectVideo": {
+    "message": "Spelar video"
+  },
+  "protectForms": {
+    "message": "Fyller i formulär"
+  },
+  "suspendButton": {
+    "message": "Suspendera den här fliken"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspenderar..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Den här fliken kan inte suspenderas"
+  },
+  "statusSuspendFailed": {
+    "message": "Det gick inte att suspendera den här fliken"
+  },
+  "statusCurrentTab": {
+    "message": "Aktuell flik"
+  },
+  "statusUrlUnavailable": {
+    "message": "Webbadress ej tillgänglig"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatisk suspendering är avstängd"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatisk suspendering efter $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Ange ett värde mellan 1 och 1440 minuter"
+  },
+  "statusSaveFailed": {
+    "message": "Det gick inte att spara inställningarna för automatisk suspendering"
+  },
+  "suspendedPageTitle": {
+    "message": "Suspenderad flik"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspenderad: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Exempelsida"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Suspenderad flik"
+  },
+  "suspendedMissingRecord": {
+    "message": "Det gick inte att hitta informationen för den här suspenderade fliken"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspenderad den"
+  },
+  "restoreButton": {
+    "message": "Återställ flik"
+  }
+}

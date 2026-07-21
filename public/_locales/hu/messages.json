@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM Felszabadítás, Üresjáratú Lapok"
+  },
+  "extensionDescription": {
+    "message": "Fülek felfüggesztése egy könnyű visszaállító oldal megjelenítésével."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Fül felfüggesztése"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Bővítmény vezérlők"
+  },
+  "currentTabAriaLabel": {
+    "message": "Aktuális fül"
+  },
+  "currentTabLoading": {
+    "message": "Betöltés..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatikus felfüggesztés"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatikus felfüggesztés"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Inaktív háttérfülek felfüggesztése."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Automatikus felfüggesztés engedélyezése"
+  },
+  "minutesAfterLabel": {
+    "message": "Után"
+  },
+  "minutesUnitLabel": {
+    "message": "perc"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Védett fülek"
+  },
+  "protectionLabel": {
+    "message": "Soha ne függessze fel a következő füleket:"
+  },
+  "protectPinned": {
+    "message": "Rögzített"
+  },
+  "protectAudio": {
+    "message": "Hang lejátszása"
+  },
+  "protectVideo": {
+    "message": "Videó lejátszása"
+  },
+  "protectForms": {
+    "message": "Űrlap kitöltése"
+  },
+  "suspendButton": {
+    "message": "Fül felfüggesztése"
+  },
+  "suspendButtonProgress": {
+    "message": "Felfüggesztés..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Ezt a fület nem lehet felfüggeszteni"
+  },
+  "statusSuspendFailed": {
+    "message": "Nem sikerült felfüggeszteni ezt a fület"
+  },
+  "statusCurrentTab": {
+    "message": "Aktuális fül"
+  },
+  "statusUrlUnavailable": {
+    "message": "A cím nem érhető el"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatikus felfüggesztés ki van kapcsolva"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatikus felfüggesztés $MINUTES$ perc után",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Adjon meg egy 1 és 1440 perc közötti értéket"
+  },
+  "statusSaveFailed": {
+    "message": "Nem sikerült menteni az automatikus felfüggesztés beállításait"
+  },
+  "suspendedPageTitle": {
+    "message": "Felfüggesztett fül"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Felfüggesztve: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Példa oldal"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Felfüggesztett fül"
+  },
+  "suspendedMissingRecord": {
+    "message": "Nem található információ erről a felfüggesztett fülről"
+  },
+  "suspendedOnPrefix": {
+    "message": "Felfüggesztve"
+  },
+  "restoreButton": {
+    "message": "Fül visszaállítása"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: เพิ่ม RAM ระงับแท็บที่ไม่ใช้"
+  },
+  "extensionDescription": {
+    "message": "ระงับแท็บโดยแสดงหน้ากู้คืนที่เบา"
+  },
+  "contextMenuSuspendTab": {
+    "message": "ระงับแท็บนี้"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "การควบคุมส่วนขยาย"
+  },
+  "currentTabAriaLabel": {
+    "message": "แท็บปัจจุบัน"
+  },
+  "currentTabLoading": {
+    "message": "กำลังโหลด..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "การระงับอัตโนมัติ"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "การระงับอัตโนมัติ"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "ระงับแท็บเบื้องหลังที่ไม่ได้ใช้งาน"
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "เปิดใช้การระงับอัตโนมัติ"
+  },
+  "minutesAfterLabel": {
+    "message": "หลังจาก"
+  },
+  "minutesUnitLabel": {
+    "message": "นาที"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "แท็บที่ได้รับการป้องกัน"
+  },
+  "protectionLabel": {
+    "message": "ไม่ระงับแท็บต่อไปนี้:"
+  },
+  "protectPinned": {
+    "message": "ปักหมุด"
+  },
+  "protectAudio": {
+    "message": "กำลังเล่นเสียง"
+  },
+  "protectVideo": {
+    "message": "กำลังเล่นวิดีโอ"
+  },
+  "protectForms": {
+    "message": "กำลังกรอกแบบฟอร์ม"
+  },
+  "suspendButton": {
+    "message": "ระงับแท็บนี้"
+  },
+  "suspendButtonProgress": {
+    "message": "กำลังระงับ..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "ไม่สามารถระงับแท็บนี้ได้"
+  },
+  "statusSuspendFailed": {
+    "message": "ไม่สามารถระงับแท็บนี้ได้"
+  },
+  "statusCurrentTab": {
+    "message": "แท็บปัจจุบัน"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL ไม่พร้อมใช้งาน"
+  },
+  "statusAutoSuspendOff": {
+    "message": "ปิดการระงับอัตโนมัติ"
+  },
+  "statusAutoSuspendOn": {
+    "message": "ระงับอัตโนมัติหลัง $MINUTES$ นาที",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "ป้อนค่าระหว่าง 1 ถึง 1440 นาที"
+  },
+  "statusSaveFailed": {
+    "message": "ไม่สามารถบันทึกการตั้งค่าระงับอัตโนมัติได้"
+  },
+  "suspendedPageTitle": {
+    "message": "แท็บที่ถูกระงับ"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "ถูกระงับ: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "หน้าตัวอย่าง"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "แท็บที่ถูกระงับ"
+  },
+  "suspendedMissingRecord": {
+    "message": "ไม่พบข้อมูลสำหรับแท็บที่ถูกระงับนี้"
+  },
+  "suspendedOnPrefix": {
+    "message": "ระงับเมื่อ"
+  },
+  "restoreButton": {
+    "message": "กู้คืนแท็บ"
+  }
+}

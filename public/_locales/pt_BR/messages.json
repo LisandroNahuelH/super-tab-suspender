@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Liberar RAM, Suspender Abas Ociosas"
+  },
+  "extensionDescription": {
+    "message": "Suspende abas exibindo uma página leve de restauração."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspender esta aba"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Controles da extensão"
+  },
+  "currentTabAriaLabel": {
+    "message": "Aba atual"
+  },
+  "currentTabLoading": {
+    "message": "Carregando..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Suspensão automática"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Suspensão automática"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspenda abas inativas em segundo plano."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Ativar suspensão automática"
+  },
+  "minutesAfterLabel": {
+    "message": "Após"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Abas protegidas"
+  },
+  "protectionLabel": {
+    "message": "Nunca suspenda as seguintes abas:"
+  },
+  "protectPinned": {
+    "message": "Fixadas"
+  },
+  "protectAudio": {
+    "message": "Reproduzindo áudio"
+  },
+  "protectVideo": {
+    "message": "Reproduzindo vídeo"
+  },
+  "protectForms": {
+    "message": "Preenchendo formulários"
+  },
+  "suspendButton": {
+    "message": "Suspender esta aba"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspendendo..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Esta aba não pode ser suspensa"
+  },
+  "statusSuspendFailed": {
+    "message": "Não foi possível suspender esta aba"
+  },
+  "statusCurrentTab": {
+    "message": "Aba atual"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL indisponível"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Suspensão automática desativada"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Suspensão automática após $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Insira um valor entre 1 e 1440 minutos"
+  },
+  "statusSaveFailed": {
+    "message": "Não foi possível salvar as configurações de suspensão automática"
+  },
+  "suspendedPageTitle": {
+    "message": "Aba suspensa"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspensa: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Página de exemplo"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Aba suspensa"
+  },
+  "suspendedMissingRecord": {
+    "message": "Não foi possível encontrar as informações desta aba suspensa"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspensa em"
+  },
+  "restoreButton": {
+    "message": "Restaurar aba"
+  }
+}

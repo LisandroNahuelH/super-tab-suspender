@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Atlaisvink RAM, Sustabdyk Neaktyvius"
+  },
+  "extensionDescription": {
+    "message": "Sustabdo korteles rodydama lengvą atkūrimo puslapį."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Sustabdyti šią kortelę"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Plėtinio valdymas"
+  },
+  "currentTabAriaLabel": {
+    "message": "Dabartinė kortelė"
+  },
+  "currentTabLoading": {
+    "message": "Įkeliama..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatinis sustabdymas"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatinis sustabdymas"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Sustabdyti neaktyvias fono korteles."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Įjungti automatinį sustabdymą"
+  },
+  "minutesAfterLabel": {
+    "message": "Po"
+  },
+  "minutesUnitLabel": {
+    "message": "min."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Apsaugotos kortelės"
+  },
+  "protectionLabel": {
+    "message": "Niekada nesustabdyti šių kortelių:"
+  },
+  "protectPinned": {
+    "message": "Prisegtos"
+  },
+  "protectAudio": {
+    "message": "Grojamas garsas"
+  },
+  "protectVideo": {
+    "message": "Grojamas vaizdo įrašas"
+  },
+  "protectForms": {
+    "message": "Pildomos formos"
+  },
+  "suspendButton": {
+    "message": "Sustabdyti šią kortelę"
+  },
+  "suspendButtonProgress": {
+    "message": "Stabdoma..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Šios kortelės negalima sustabdyti"
+  },
+  "statusSuspendFailed": {
+    "message": "Nepavyko sustabdyti šios kortelės"
+  },
+  "statusCurrentTab": {
+    "message": "Dabartinė kortelė"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL nepasiekiamas"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatinis sustabdymas išjungtas"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatinis sustabdymas po $MINUTES$ min.",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Įveskite reikšmę nuo 1 iki 1440 minučių"
+  },
+  "statusSaveFailed": {
+    "message": "Nepavyko išsaugoti automatinio sustabdymo nustatymų"
+  },
+  "suspendedPageTitle": {
+    "message": "Sustabdyta kortelė"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Sustabdyta: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Pavyzdinis puslapis"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Sustabdyta kortelė"
+  },
+  "suspendedMissingRecord": {
+    "message": "Nepavyko rasti šios sustabdytos kortelės informacijos"
+  },
+  "suspendedOnPrefix": {
+    "message": "Sustabdymo data"
+  },
+  "restoreButton": {
+    "message": "Atkurti kortelę"
+  }
+}

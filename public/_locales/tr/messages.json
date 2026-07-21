@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM Boşalt, Boş Sekmeleri Askıya Al"
+  },
+  "extensionDescription": {
+    "message": "Hafif bir geri yükleme sayfası göstererek sekmeleri askıya alır."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Bu sekmeyi askıya al"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Uzantı denetimleri"
+  },
+  "currentTabAriaLabel": {
+    "message": "Geçerli sekme"
+  },
+  "currentTabLoading": {
+    "message": "Yükleniyor..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Otomatik askıya alma"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Otomatik askıya alma"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Etkin olmayan arka plan sekmelerini askıya al."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Otomatik askıya almayı etkinleştir"
+  },
+  "minutesAfterLabel": {
+    "message": "Sonra"
+  },
+  "minutesUnitLabel": {
+    "message": "dk"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Korunan sekmeler"
+  },
+  "protectionLabel": {
+    "message": "Şu sekmeleri asla askıya alma:"
+  },
+  "protectPinned": {
+    "message": "Sabitlenmiş"
+  },
+  "protectAudio": {
+    "message": "Ses çalıyor"
+  },
+  "protectVideo": {
+    "message": "Video oynatılıyor"
+  },
+  "protectForms": {
+    "message": "Form dolduruluyor"
+  },
+  "suspendButton": {
+    "message": "Bu sekmeyi askıya al"
+  },
+  "suspendButtonProgress": {
+    "message": "Askıya alınıyor..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Bu sekme askıya alınamaz"
+  },
+  "statusSuspendFailed": {
+    "message": "Bu sekme askıya alınamadı"
+  },
+  "statusCurrentTab": {
+    "message": "Geçerli sekme"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL kullanılamıyor"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Otomatik askıya alma kapalı"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ dk sonra otomatik askıya al",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 ile 1440 dakika arasında bir değer girin"
+  },
+  "statusSaveFailed": {
+    "message": "Otomatik askıya alma ayarları kaydedilemedi"
+  },
+  "suspendedPageTitle": {
+    "message": "Askıya alınmış sekme"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Askıya alındı: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Örnek sayfa"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Askıya alınmış sekme"
+  },
+  "suspendedMissingRecord": {
+    "message": "Bu askıya alınmış sekme için bilgi bulunamadı"
+  },
+  "suspendedOnPrefix": {
+    "message": "Askıya alındı"
+  },
+  "restoreButton": {
+    "message": "Sekmeyi geri yükle"
+  }
+}

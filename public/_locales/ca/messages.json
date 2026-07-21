@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Allibera RAM, Suspèn Pestanyes Inactives"
+  },
+  "extensionDescription": {
+    "message": "Suspèn les pestanyes mostrant una pàgina lleugera de restauració."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspèn aquesta pestanya"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Controls de l'extensió"
+  },
+  "currentTabAriaLabel": {
+    "message": "Pestanya actual"
+  },
+  "currentTabLoading": {
+    "message": "S'està carregant..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Suspensió automàtica"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Suspensió automàtica"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspèn les pestanyes inactives en segon pla."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Activa la suspensió automàtica"
+  },
+  "minutesAfterLabel": {
+    "message": "Després de"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Pestanyes protegides"
+  },
+  "protectionLabel": {
+    "message": "No suspenguis mai les pestanyes següents:"
+  },
+  "protectPinned": {
+    "message": "Fixades"
+  },
+  "protectAudio": {
+    "message": "Reproduint àudio"
+  },
+  "protectVideo": {
+    "message": "Reproduint vídeo"
+  },
+  "protectForms": {
+    "message": "Omplint formularis"
+  },
+  "suspendButton": {
+    "message": "Suspèn aquesta pestanya"
+  },
+  "suspendButtonProgress": {
+    "message": "S'està suspendent..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Aquesta pestanya no es pot suspendre"
+  },
+  "statusSuspendFailed": {
+    "message": "No s'ha pogut suspendre aquesta pestanya"
+  },
+  "statusCurrentTab": {
+    "message": "Pestanya actual"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adreça web no disponible"
+  },
+  "statusAutoSuspendOff": {
+    "message": "La suspensió automàtica està desactivada"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Suspensió automàtica després de $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Introdueix un valor entre 1 i 1440 minuts"
+  },
+  "statusSaveFailed": {
+    "message": "No s'han pogut desar els paràmetres de suspensió automàtica"
+  },
+  "suspendedPageTitle": {
+    "message": "Pestanya suspesa"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspesa: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Pàgina d'exemple"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Pestanya suspesa"
+  },
+  "suspendedMissingRecord": {
+    "message": "No s'ha pogut trobar la informació d'aquesta pestanya suspesa"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspesa el"
+  },
+  "restoreButton": {
+    "message": "Restaura la pestanya"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Звільни RAM, Призупини Неактивні"
+  },
+  "extensionDescription": {
+    "message": "Призупиняє вкладки, показуючи легку сторінку відновлення."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Призупинити цю вкладку"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Керування розширенням"
+  },
+  "currentTabAriaLabel": {
+    "message": "Поточна вкладка"
+  },
+  "currentTabLoading": {
+    "message": "Завантаження..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Автоматичне призупинення"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Автоматичне призупинення"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Призупиняти неактивні фонові вкладки."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Увімкнути автоматичне призупинення"
+  },
+  "minutesAfterLabel": {
+    "message": "Через"
+  },
+  "minutesUnitLabel": {
+    "message": "хв"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Захищені вкладки"
+  },
+  "protectionLabel": {
+    "message": "Ніколи не призупиняти такі вкладки:"
+  },
+  "protectPinned": {
+    "message": "Закріплені"
+  },
+  "protectAudio": {
+    "message": "Відтворення аудіо"
+  },
+  "protectVideo": {
+    "message": "Відтворення відео"
+  },
+  "protectForms": {
+    "message": "Заповнення форм"
+  },
+  "suspendButton": {
+    "message": "Призупинити цю вкладку"
+  },
+  "suspendButtonProgress": {
+    "message": "Призупинення..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Цю вкладку не можна призупинити"
+  },
+  "statusSuspendFailed": {
+    "message": "Не вдалося призупинити цю вкладку"
+  },
+  "statusCurrentTab": {
+    "message": "Поточна вкладка"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL недоступний"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Автопризупинення вимкнено"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Автопризупинення через $MINUTES$ хв",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Введіть значення від 1 до 1440 хвилин"
+  },
+  "statusSaveFailed": {
+    "message": "Не вдалося зберегти налаштування автопризупинення"
+  },
+  "suspendedPageTitle": {
+    "message": "Призупинена вкладка"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Призупинено: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Приклад сторінки"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Призупинена вкладка"
+  },
+  "suspendedMissingRecord": {
+    "message": "Не вдалося знайти інформацію для цієї призупиненої вкладки"
+  },
+  "suspendedOnPrefix": {
+    "message": "Призупинено"
+  },
+  "restoreButton": {
+    "message": "Відновити вкладку"
+  }
+}

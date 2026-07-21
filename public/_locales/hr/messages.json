@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Oslobodi RAM, Obustavi Neaktivne Kartice"
+  },
+  "extensionDescription": {
+    "message": "Obustavlja kartice prikazom lagane stranice za vraćanje."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Obustavi ovu karticu"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Kontrole proširenja"
+  },
+  "currentTabAriaLabel": {
+    "message": "Trenutačna kartica"
+  },
+  "currentTabLoading": {
+    "message": "Učitavanje..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatska obustava"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatska obustava"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Obustavi neaktivne kartice u pozadini."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Omogući automatsku obustavu"
+  },
+  "minutesAfterLabel": {
+    "message": "Nakon"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Zaštićene kartice"
+  },
+  "protectionLabel": {
+    "message": "Nikada ne obustavljaj sljedeće kartice:"
+  },
+  "protectPinned": {
+    "message": "Prikvačene"
+  },
+  "protectAudio": {
+    "message": "Reproducira zvuk"
+  },
+  "protectVideo": {
+    "message": "Reproducira video"
+  },
+  "protectForms": {
+    "message": "Ispunjava obrasce"
+  },
+  "suspendButton": {
+    "message": "Obustavi ovu karticu"
+  },
+  "suspendButtonProgress": {
+    "message": "Obustavljanje..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Ovu karticu nije moguće obustaviti"
+  },
+  "statusSuspendFailed": {
+    "message": "Nije moguće obustaviti ovu karticu"
+  },
+  "statusCurrentTab": {
+    "message": "Trenutačna kartica"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adresa nije dostupna"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatska obustava je isključena"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatska obustava nakon $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Unesite vrijednost između 1 i 1440 minuta"
+  },
+  "statusSaveFailed": {
+    "message": "Nije moguće spremiti postavke automatske obustave"
+  },
+  "suspendedPageTitle": {
+    "message": "Obustavljena kartica"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Obustavljeno: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Primjer stranice"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Obustavljena kartica"
+  },
+  "suspendedMissingRecord": {
+    "message": "Nije moguće pronaći informacije za ovu obustavljenu karticu"
+  },
+  "suspendedOnPrefix": {
+    "message": "Obustavljeno"
+  },
+  "restoreButton": {
+    "message": "Vrati karticu"
+  }
+}

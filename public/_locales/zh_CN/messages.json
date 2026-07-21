@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: 释放内存，自动挂起闲置标签"
+  },
+  "extensionDescription": {
+    "message": "通过显示轻量级恢复页面来休眠标签页。"
+  },
+  "contextMenuSuspendTab": {
+    "message": "休眠此标签页"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "扩展控件"
+  },
+  "currentTabAriaLabel": {
+    "message": "当前标签页"
+  },
+  "currentTabLoading": {
+    "message": "加载中..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "自动休眠"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "自动休眠"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "休眠不活动的后台标签页。"
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "启用自动休眠"
+  },
+  "minutesAfterLabel": {
+    "message": "之后"
+  },
+  "minutesUnitLabel": {
+    "message": "分钟"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "受保护的标签页"
+  },
+  "protectionLabel": {
+    "message": "永不休眠以下标签页："
+  },
+  "protectPinned": {
+    "message": "已固定"
+  },
+  "protectAudio": {
+    "message": "正在播放音频"
+  },
+  "protectVideo": {
+    "message": "正在播放视频"
+  },
+  "protectForms": {
+    "message": "正在填写表单"
+  },
+  "suspendButton": {
+    "message": "休眠此标签页"
+  },
+  "suspendButtonProgress": {
+    "message": "正在休眠..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "无法休眠此标签页"
+  },
+  "statusSuspendFailed": {
+    "message": "无法休眠此标签页"
+  },
+  "statusCurrentTab": {
+    "message": "当前标签页"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL 不可用"
+  },
+  "statusAutoSuspendOff": {
+    "message": "自动休眠已关闭"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ 分钟后自动休眠",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "请输入 1 至 1440 之间的分钟数"
+  },
+  "statusSaveFailed": {
+    "message": "无法保存自动休眠设置"
+  },
+  "suspendedPageTitle": {
+    "message": "已休眠的标签页"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "已休眠：$TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "示例页面"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "已休眠的标签页"
+  },
+  "suspendedMissingRecord": {
+    "message": "找不到此休眠标签页的信息"
+  },
+  "suspendedOnPrefix": {
+    "message": "休眠于"
+  },
+  "restoreButton": {
+    "message": "恢复标签页"
+  }
+}

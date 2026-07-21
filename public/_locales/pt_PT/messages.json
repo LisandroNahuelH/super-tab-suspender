@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Libertar RAM, Suspender Separadores"
+  },
+  "extensionDescription": {
+    "message": "Suspende separadores ao mostrar uma página leve de restauro."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspender este separador"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Controlos da extensão"
+  },
+  "currentTabAriaLabel": {
+    "message": "Separador atual"
+  },
+  "currentTabLoading": {
+    "message": "A carregar..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Suspensão automática"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Suspensão automática"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspenda separadores inativos em segundo plano."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Ativar suspensão automática"
+  },
+  "minutesAfterLabel": {
+    "message": "Após"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Separadores protegidos"
+  },
+  "protectionLabel": {
+    "message": "Nunca suspenda os seguintes separadores:"
+  },
+  "protectPinned": {
+    "message": "Fixados"
+  },
+  "protectAudio": {
+    "message": "A reproduzir áudio"
+  },
+  "protectVideo": {
+    "message": "A reproduzir vídeo"
+  },
+  "protectForms": {
+    "message": "A preencher formulários"
+  },
+  "suspendButton": {
+    "message": "Suspender este separador"
+  },
+  "suspendButtonProgress": {
+    "message": "A suspender..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Este separador não pode ser suspenso"
+  },
+  "statusSuspendFailed": {
+    "message": "Não foi possível suspender este separador"
+  },
+  "statusCurrentTab": {
+    "message": "Separador atual"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL indisponível"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Suspensão automática desativada"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Suspensão automática após $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Introduza um valor entre 1 e 1440 minutos"
+  },
+  "statusSaveFailed": {
+    "message": "Não foi possível guardar as definições de suspensão automática"
+  },
+  "suspendedPageTitle": {
+    "message": "Separador suspenso"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspenso: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Página de exemplo"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Separador suspenso"
+  },
+  "suspendedMissingRecord": {
+    "message": "Não foi possível encontrar as informações deste separador suspenso"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspenso em"
+  },
+  "restoreButton": {
+    "message": "Restaurar separador"
+  }
+}

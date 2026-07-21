@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Frigjør RAM, Paus Inaktive Faner"
+  },
+  "extensionDescription": {
+    "message": "Suspenderer faner ved å vise en lett gjenopprettingsside."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspender denne fanen"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Utvidelseskontroller"
+  },
+  "currentTabAriaLabel": {
+    "message": "Gjeldende fane"
+  },
+  "currentTabLoading": {
+    "message": "Laster inn..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatisk suspensjon"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatisk suspensjon"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspender inaktive faner i bakgrunnen."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Aktiver automatisk suspensjon"
+  },
+  "minutesAfterLabel": {
+    "message": "Etter"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Beskyttede faner"
+  },
+  "protectionLabel": {
+    "message": "Suspender aldri følgende faner:"
+  },
+  "protectPinned": {
+    "message": "Festede"
+  },
+  "protectAudio": {
+    "message": "Spiller av lyd"
+  },
+  "protectVideo": {
+    "message": "Spiller av video"
+  },
+  "protectForms": {
+    "message": "Fyller ut skjemaer"
+  },
+  "suspendButton": {
+    "message": "Suspender denne fanen"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspenderer..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Denne fanen kan ikke suspenderes"
+  },
+  "statusSuspendFailed": {
+    "message": "Kunne ikke suspendere denne fanen"
+  },
+  "statusCurrentTab": {
+    "message": "Gjeldende fane"
+  },
+  "statusUrlUnavailable": {
+    "message": "Nettadresse utilgjengelig"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatisk suspensjon er av"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatisk suspensjon etter $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Angi en verdi mellom 1 og 1440 minutter"
+  },
+  "statusSaveFailed": {
+    "message": "Kunne ikke lagre innstillinger for automatisk suspensjon"
+  },
+  "suspendedPageTitle": {
+    "message": "Suspendert fane"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspendert: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Eksempelside"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Suspendert fane"
+  },
+  "suspendedMissingRecord": {
+    "message": "Fant ikke informasjonen for denne suspenderte fanen"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspendert den"
+  },
+  "restoreButton": {
+    "message": "Gjenopprett fane"
+  }
+}

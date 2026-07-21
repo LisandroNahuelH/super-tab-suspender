@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Освободи RAM, Спирай Неактивни Табове"
+  },
+  "extensionDescription": {
+    "message": "Спира раздели, като показва лека страница за възстановяване."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Спиране на този раздел"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Контроли на разширението"
+  },
+  "currentTabAriaLabel": {
+    "message": "Текущ раздел"
+  },
+  "currentTabLoading": {
+    "message": "Зареждане..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Автоматично спиране"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Автоматично спиране"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Спиране на неактивните раздели на заден план."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Включване на автоматично спиране"
+  },
+  "minutesAfterLabel": {
+    "message": "След"
+  },
+  "minutesUnitLabel": {
+    "message": "мин"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Защитени раздели"
+  },
+  "protectionLabel": {
+    "message": "Никога не спирайте следните раздели:"
+  },
+  "protectPinned": {
+    "message": "Закачени"
+  },
+  "protectAudio": {
+    "message": "Възпроизвежда аудио"
+  },
+  "protectVideo": {
+    "message": "Възпроизвежда видео"
+  },
+  "protectForms": {
+    "message": "Попълва формуляри"
+  },
+  "suspendButton": {
+    "message": "Спиране на този раздел"
+  },
+  "suspendButtonProgress": {
+    "message": "Спиране..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Този раздел не може да бъде спрян"
+  },
+  "statusSuspendFailed": {
+    "message": "Неуспешно спиране на този раздел"
+  },
+  "statusCurrentTab": {
+    "message": "Текущ раздел"
+  },
+  "statusUrlUnavailable": {
+    "message": "Адресът не е наличен"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Автоматичното спиране е изключено"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Автоматично спиране след $MINUTES$ мин",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Въведете стойност между 1 и 1440 минути"
+  },
+  "statusSaveFailed": {
+    "message": "Неуспешно запазване на настройките за автоматично спиране"
+  },
+  "suspendedPageTitle": {
+    "message": "Спрян раздел"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Спрян: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Примерна страница"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Спрян раздел"
+  },
+  "suspendedMissingRecord": {
+    "message": "Неуспешно намиране на информацията за този спрян раздел"
+  },
+  "suspendedOnPrefix": {
+    "message": "Спряно на"
+  },
+  "restoreButton": {
+    "message": "Възстановяване на раздела"
+  }
+}

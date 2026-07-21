@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Uvolni RAM, Pozastav Neaktivní Karty"
+  },
+  "extensionDescription": {
+    "message": "Pozastavuje karty zobrazením lehké stránky pro obnovení."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Pozastavit tuto kartu"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Ovládání rozšíření"
+  },
+  "currentTabAriaLabel": {
+    "message": "Aktuální karta"
+  },
+  "currentTabLoading": {
+    "message": "Načítání..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatické pozastavení"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatické pozastavení"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Pozastaví neaktivní karty na pozadí."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Povolit automatické pozastavení"
+  },
+  "minutesAfterLabel": {
+    "message": "Po"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Chráněné karty"
+  },
+  "protectionLabel": {
+    "message": "Nikdy nepozastavovat následující karty:"
+  },
+  "protectPinned": {
+    "message": "Připnuté"
+  },
+  "protectAudio": {
+    "message": "Přehrává zvuk"
+  },
+  "protectVideo": {
+    "message": "Přehrává video"
+  },
+  "protectForms": {
+    "message": "Vyplňuje formuláře"
+  },
+  "suspendButton": {
+    "message": "Pozastavit tuto kartu"
+  },
+  "suspendButtonProgress": {
+    "message": "Pozastavování..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Tuto kartu nelze pozastavit"
+  },
+  "statusSuspendFailed": {
+    "message": "Tuto kartu se nepodařilo pozastavit"
+  },
+  "statusCurrentTab": {
+    "message": "Aktuální karta"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adresa není k dispozici"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatické pozastavení je vypnuto"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatické pozastavení po $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Zadejte hodnotu mezi 1 a 1440 minutami"
+  },
+  "statusSaveFailed": {
+    "message": "Nepodařilo se uložit nastavení automatického pozastavení"
+  },
+  "suspendedPageTitle": {
+    "message": "Pozastavená karta"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Pozastaveno: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Ukázková stránka"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Pozastavená karta"
+  },
+  "suspendedMissingRecord": {
+    "message": "Nepodařilo se najít informace o této pozastavené kartě"
+  },
+  "suspendedOnPrefix": {
+    "message": "Pozastaveno dne"
+  },
+  "restoreButton": {
+    "message": "Obnovit kartu"
+  }
+}

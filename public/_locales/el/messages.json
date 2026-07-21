@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Ελευθέρωσε RAM, Αναστολή Καρτελών"
+  },
+  "extensionDescription": {
+    "message": "Αναστέλλει καρτέλες εμφανίζοντας μια ελαφριά σελίδα επαναφοράς."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Αναστολή αυτής της καρτέλας"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Έλεγχοι επέκτασης"
+  },
+  "currentTabAriaLabel": {
+    "message": "Τρέχουσα καρτέλα"
+  },
+  "currentTabLoading": {
+    "message": "Φόρτωση..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Αυτόματη αναστολή"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Αυτόματη αναστολή"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Αναστέλλει ανενεργές καρτέλες στο παρασκήνιο."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Ενεργοποίηση αυτόματης αναστολής"
+  },
+  "minutesAfterLabel": {
+    "message": "Μετά από"
+  },
+  "minutesUnitLabel": {
+    "message": "λεπ."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Προστατευμένες καρτέλες"
+  },
+  "protectionLabel": {
+    "message": "Μην αναστέλλετε ποτέ τις ακόλουθες καρτέλες:"
+  },
+  "protectPinned": {
+    "message": "Καρφιτσωμένες"
+  },
+  "protectAudio": {
+    "message": "Αναπαραγωγή ήχου"
+  },
+  "protectVideo": {
+    "message": "Αναπαραγωγή βίντεο"
+  },
+  "protectForms": {
+    "message": "Συμπλήρωση φορμών"
+  },
+  "suspendButton": {
+    "message": "Αναστολή αυτής της καρτέλας"
+  },
+  "suspendButtonProgress": {
+    "message": "Αναστολή..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Αυτή η καρτέλα δεν μπορεί να ανασταλεί"
+  },
+  "statusSuspendFailed": {
+    "message": "Δεν ήταν δυνατή η αναστολή αυτής της καρτέλας"
+  },
+  "statusCurrentTab": {
+    "message": "Τρέχουσα καρτέλα"
+  },
+  "statusUrlUnavailable": {
+    "message": "Η διεύθυνση δεν είναι διαθέσιμη"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Η αυτόματη αναστολή είναι απενεργοποιημένη"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Αυτόματη αναστολή μετά από $MINUTES$ λεπ.",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Εισαγάγετε μια τιμή μεταξύ 1 και 1440 λεπτών"
+  },
+  "statusSaveFailed": {
+    "message": "Δεν ήταν δυνατή η αποθήκευση των ρυθμίσεων αυτόματης αναστολής"
+  },
+  "suspendedPageTitle": {
+    "message": "Ανασταλμένη καρτέλα"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Ανασταλμένη: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Σελίδα παράδειγμα"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Ανασταλμένη καρτέλα"
+  },
+  "suspendedMissingRecord": {
+    "message": "Δεν ήταν δυνατή η εύρεση των πληροφοριών για αυτή την ανασταλμένη καρτέλα"
+  },
+  "suspendedOnPrefix": {
+    "message": "Αναστάλθηκε στις"
+  },
+  "restoreButton": {
+    "message": "Επαναφορά καρτέλας"
+  }
+}

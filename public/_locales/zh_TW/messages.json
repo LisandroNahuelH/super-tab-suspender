@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: 釋放記憶體，自動暫停閒置分頁"
+  },
+  "extensionDescription": {
+    "message": "透過顯示輕量級還原頁面來休眠分頁。"
+  },
+  "contextMenuSuspendTab": {
+    "message": "休眠此分頁"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "擴充功能控制項"
+  },
+  "currentTabAriaLabel": {
+    "message": "目前分頁"
+  },
+  "currentTabLoading": {
+    "message": "載入中..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "自動休眠"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "自動休眠"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "休眠閒置的背景分頁。"
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "啟用自動休眠"
+  },
+  "minutesAfterLabel": {
+    "message": "之後"
+  },
+  "minutesUnitLabel": {
+    "message": "分鐘"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "受保護的分頁"
+  },
+  "protectionLabel": {
+    "message": "永不休眠以下分頁："
+  },
+  "protectPinned": {
+    "message": "已固定"
+  },
+  "protectAudio": {
+    "message": "正在播放音訊"
+  },
+  "protectVideo": {
+    "message": "正在播放影片"
+  },
+  "protectForms": {
+    "message": "正在填寫表單"
+  },
+  "suspendButton": {
+    "message": "休眠此分頁"
+  },
+  "suspendButtonProgress": {
+    "message": "正在休眠..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "無法休眠此分頁"
+  },
+  "statusSuspendFailed": {
+    "message": "無法休眠此分頁"
+  },
+  "statusCurrentTab": {
+    "message": "目前分頁"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL 無法使用"
+  },
+  "statusAutoSuspendOff": {
+    "message": "自動休眠已關閉"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ 分鐘後自動休眠",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "請輸入 1 至 1440 之間的分鐘數"
+  },
+  "statusSaveFailed": {
+    "message": "無法儲存自動休眠設定"
+  },
+  "suspendedPageTitle": {
+    "message": "已休眠的分頁"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "已休眠：$TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "範例頁面"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "已休眠的分頁"
+  },
+  "suspendedMissingRecord": {
+    "message": "找不到此休眠分頁的資訊"
+  },
+  "suspendedOnPrefix": {
+    "message": "休眠於"
+  },
+  "restoreButton": {
+    "message": "還原分頁"
+  }
+}

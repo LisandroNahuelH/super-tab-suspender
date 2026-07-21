@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM விடுவி, செயலற்ற தாவல் நிறுத்து"
+  },
+  "extensionDescription": {
+    "message": "இலகுரக மீட்டமைப்பு பக்கத்தைக் காட்டி தாவல்களை இடைநிறுத்துகிறது."
+  },
+  "contextMenuSuspendTab": {
+    "message": "இந்தத் தாவலை இடைநிறுத்து"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "நீட்சி கட்டுப்பாடுகள்"
+  },
+  "currentTabAriaLabel": {
+    "message": "தற்போதைய தாவல்"
+  },
+  "currentTabLoading": {
+    "message": "ஏற்றுகிறது..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "தானியங்கி இடைநிறுத்தம்"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "தானியங்கி இடைநிறுத்தம்"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "செயலற்ற பின்னணித் தாவல்களை இடைநிறுத்து."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "தானியங்கி இடைநிறுத்தத்தை இயக்கு"
+  },
+  "minutesAfterLabel": {
+    "message": "பிறகு"
+  },
+  "minutesUnitLabel": {
+    "message": "நிமி"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "பாதுகாக்கப்பட்ட தாவல்கள்"
+  },
+  "protectionLabel": {
+    "message": "பின்வரும் தாவல்களை ஒருபோதும் இடைநிறுத்த வேண்டாம்:"
+  },
+  "protectPinned": {
+    "message": "பின் செய்யப்பட்டவை"
+  },
+  "protectAudio": {
+    "message": "ஆடியோ இயக்குகிறது"
+  },
+  "protectVideo": {
+    "message": "வீடியோ இயக்குகிறது"
+  },
+  "protectForms": {
+    "message": "படிவங்கள் நிரப்பப்படுகின்றன"
+  },
+  "suspendButton": {
+    "message": "இந்தத் தாவலை இடைநிறுத்து"
+  },
+  "suspendButtonProgress": {
+    "message": "இடைநிறுத்துகிறது..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "இந்தத் தாவலை இடைநிறுத்த முடியாது"
+  },
+  "statusSuspendFailed": {
+    "message": "இந்தத் தாவலை இடைநிறுத்த முடியவில்லை"
+  },
+  "statusCurrentTab": {
+    "message": "தற்போதைய தாவல்"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL கிடைக்கவில்லை"
+  },
+  "statusAutoSuspendOff": {
+    "message": "தானியங்கி இடைநிறுத்தம் அணைக்கப்பட்டது"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ நிமிடங்களுக்குப் பிறகு தானியங்கி இடைநிறுத்தம்",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 முதல் 1440 நிமிடங்களுக்கு இடையில் ஒரு மதிப்பை உள்ளிடவும்"
+  },
+  "statusSaveFailed": {
+    "message": "தானியங்கி இடைநிறுத்த அமைப்புகளைச் சேமிக்க முடியவில்லை"
+  },
+  "suspendedPageTitle": {
+    "message": "இடைநிறுத்தப்பட்ட தாவல்"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "இடைநிறுத்தப்பட்டது: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "உதாரணப் பக்கம்"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "இடைநிறுத்தப்பட்ட தாவல்"
+  },
+  "suspendedMissingRecord": {
+    "message": "இந்த இடைநிறுத்தப்பட்ட தாவலின் தகவலைக் கண்டறிய முடியவில்லை"
+  },
+  "suspendedOnPrefix": {
+    "message": "இடைநிறுத்தப்பட்ட நேரம்"
+  },
+  "restoreButton": {
+    "message": "தாவலை மீட்டமை"
+  }
+}

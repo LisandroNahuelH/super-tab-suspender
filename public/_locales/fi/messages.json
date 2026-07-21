@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Vapauta RAM, Keskeytä Joutilaat Välilehdet"
+  },
+  "extensionDescription": {
+    "message": "Keskeyttää välilehdet näyttämällä kevyen palautussivun."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Keskeytä tämä välilehti"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Laajennuksen ohjaus"
+  },
+  "currentTabAriaLabel": {
+    "message": "Nykyinen välilehti"
+  },
+  "currentTabLoading": {
+    "message": "Ladataan..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automaattinen keskeytys"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automaattinen keskeytys"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Keskeytä passiiviset taustavälilehdet."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Ota automaattinen keskeytys käyttöön"
+  },
+  "minutesAfterLabel": {
+    "message": "Jälkeen"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Suojatut välilehdet"
+  },
+  "protectionLabel": {
+    "message": "Älä koskaan keskeytä seuraavia välilehtiä:"
+  },
+  "protectPinned": {
+    "message": "Kiinnitetty"
+  },
+  "protectAudio": {
+    "message": "Ääntä toistava"
+  },
+  "protectVideo": {
+    "message": "Videota toistava"
+  },
+  "protectForms": {
+    "message": "Lomakkeen täyttö"
+  },
+  "suspendButton": {
+    "message": "Keskeytä tämä välilehti"
+  },
+  "suspendButtonProgress": {
+    "message": "Keskeytetään..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Tätä välilehteä ei voi keskeyttää"
+  },
+  "statusSuspendFailed": {
+    "message": "Välilehden keskeyttäminen epäonnistui"
+  },
+  "statusCurrentTab": {
+    "message": "Nykyinen välilehti"
+  },
+  "statusUrlUnavailable": {
+    "message": "Osoite ei ole saatavilla"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automaattinen keskeytys on pois päältä"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automaattinen keskeytys $MINUTES$ min kuluttua",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Syötä arvo väliltä 1–1440 minuuttia"
+  },
+  "statusSaveFailed": {
+    "message": "Automaattisen keskeytyksen asetuksia ei voitu tallentaa"
+  },
+  "suspendedPageTitle": {
+    "message": "Keskeytetty välilehti"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Keskeytetty: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Esimerkkisivu"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Keskeytetty välilehti"
+  },
+  "suspendedMissingRecord": {
+    "message": "Keskeytetyn välilehden tietoja ei löytynyt"
+  },
+  "suspendedOnPrefix": {
+    "message": "Keskeytetty"
+  },
+  "restoreButton": {
+    "message": "Palauta välilehti"
+  }
+}

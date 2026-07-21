@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Maak RAM Vrij, Pauzeer Inactieve Tabs"
+  },
+  "extensionDescription": {
+    "message": "Schort tabbladen op met een lichte herstelpagina."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Dit tabblad opschorten"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Extensiebediening"
+  },
+  "currentTabAriaLabel": {
+    "message": "Huidig tabblad"
+  },
+  "currentTabLoading": {
+    "message": "Laden..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automatisch opschorten"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automatisch opschorten"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Schort inactieve achtergrondtabbladen op."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Automatisch opschorten inschakelen"
+  },
+  "minutesAfterLabel": {
+    "message": "Na"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Beschermde tabbladen"
+  },
+  "protectionLabel": {
+    "message": "De volgende tabbladen nooit opschorten:"
+  },
+  "protectPinned": {
+    "message": "Vastgezet"
+  },
+  "protectAudio": {
+    "message": "Audio wordt afgespeeld"
+  },
+  "protectVideo": {
+    "message": "Video wordt afgespeeld"
+  },
+  "protectForms": {
+    "message": "Formulieren worden ingevuld"
+  },
+  "suspendButton": {
+    "message": "Dit tabblad opschorten"
+  },
+  "suspendButtonProgress": {
+    "message": "Opschorten..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Dit tabblad kan niet worden opgeschort"
+  },
+  "statusSuspendFailed": {
+    "message": "Dit tabblad kon niet worden opgeschort"
+  },
+  "statusCurrentTab": {
+    "message": "Huidig tabblad"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL niet beschikbaar"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automatisch opschorten is uit"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automatisch opschorten na $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Voer een waarde tussen 1 en 1440 minuten in"
+  },
+  "statusSaveFailed": {
+    "message": "Instellingen voor automatisch opschorten konden niet worden opgeslagen"
+  },
+  "suspendedPageTitle": {
+    "message": "Opgeschort tabblad"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Opgeschort: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Voorbeeldpagina"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Opgeschort tabblad"
+  },
+  "suspendedMissingRecord": {
+    "message": "Gegevens voor dit opgeschorte tabblad konden niet worden gevonden"
+  },
+  "suspendedOnPrefix": {
+    "message": "Opgeschort op"
+  },
+  "restoreButton": {
+    "message": "Tabblad herstellen"
+  }
+}

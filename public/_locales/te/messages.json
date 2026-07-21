@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM ఖాళీ, నిష్క్రియ ట్యాబ్ సస్పెండ్"
+  },
+  "extensionDescription": {
+    "message": "తేలికైన పునరుద్ధరణ పేజీని చూపించి ట్యాబ్‌లను నిష్క్రియం చేస్తుంది."
+  },
+  "contextMenuSuspendTab": {
+    "message": "ఈ ట్యాబ్‌ను నిష్క్రియం చేయి"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "పొడిగింపు నియంత్రణలు"
+  },
+  "currentTabAriaLabel": {
+    "message": "ప్రస్తుత ట్యాబ్"
+  },
+  "currentTabLoading": {
+    "message": "లోడ్ అవుతోంది..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "స్వయంచాలక నిష్క్రియం"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "స్వయంచాలక నిష్క్రియం"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "నిష్క్రియ నేపథ్య ట్యాబ్‌లను నిష్క్రియం చేయి."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "స్వయంచాలక నిష్క్రియాన్ని ప్రారంభించు"
+  },
+  "minutesAfterLabel": {
+    "message": "తర్వాత"
+  },
+  "minutesUnitLabel": {
+    "message": "నిమి"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "రక్షిత ట్యాబ్‌లు"
+  },
+  "protectionLabel": {
+    "message": "కింది ట్యాబ్‌లను ఎప్పటికీ నిష్క్రియం చేయవద్దు:"
+  },
+  "protectPinned": {
+    "message": "పిన్ చేసినవి"
+  },
+  "protectAudio": {
+    "message": "ఆడియో ప్లే అవుతోంది"
+  },
+  "protectVideo": {
+    "message": "వీడియో ప్లే అవుతోంది"
+  },
+  "protectForms": {
+    "message": "ఫారమ్‌లు నింపబడుతున్నాయి"
+  },
+  "suspendButton": {
+    "message": "ఈ ట్యాబ్‌ను నిష్క్రియం చేయి"
+  },
+  "suspendButtonProgress": {
+    "message": "నిష్క్రియం చేస్తోంది..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "ఈ ట్యాబ్‌ను నిష్క్రియం చేయలేము"
+  },
+  "statusSuspendFailed": {
+    "message": "ఈ ట్యాబ్‌ను నిష్క్రియం చేయలేకపోయింది"
+  },
+  "statusCurrentTab": {
+    "message": "ప్రస్తుత ట్యాబ్"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL అందుబాటులో లేదు"
+  },
+  "statusAutoSuspendOff": {
+    "message": "స్వయంచాలక నిష్క్రియం ఆపండిలో ఉంది"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ నిమిషాల తర్వాత స్వయంచాలక నిష్క్రియం",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 నుండి 1440 నిమిషాల మధ్య విలువను నమోదు చేయండి"
+  },
+  "statusSaveFailed": {
+    "message": "స్వయంచాలక నిష్క్రియం అమరికలను భద్రపరచలేకపోయింది"
+  },
+  "suspendedPageTitle": {
+    "message": "నిష్క్రియం చేసిన ట్యాబ్"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "నిష్క్రియం చేయబడింది: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "ఉదాహరణ పేజీ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "నిష్క్రియం చేసిన ట్యాబ్"
+  },
+  "suspendedMissingRecord": {
+    "message": "ఈ నిష్క్రియం చేసిన ట్యాబ్ కోసం సమాచారం కనుగొనబడలేదు"
+  },
+  "suspendedOnPrefix": {
+    "message": "నిష్క్రియం చేసిన సమయం"
+  },
+  "restoreButton": {
+    "message": "ట్యాబ్‌ను పునరుద్ధరించు"
+  }
+}

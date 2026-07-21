@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM ಮುಕ್ತ, ನಿಷ್ಕ್ರಿಯ ಟ್ಯಾಬ್ ಸಸ್ಪೆಂಡ್"
+  },
+  "extensionDescription": {
+    "message": "ಹಗುರವಾದ ಮರುಸ್ಥಾಪನೆ ಪುಟವನ್ನು ತೋರಿಸಿ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಅಮಾನತುಗೊಳಿಸುತ್ತದೆ."
+  },
+  "contextMenuSuspendTab": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಅಮಾನತುಗೊಳಿಸಿ"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "ವಿಸ್ತರಣೆ ನಿಯಂತ್ರಣಗಳು"
+  },
+  "currentTabAriaLabel": {
+    "message": "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್"
+  },
+  "currentTabLoading": {
+    "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "ಸ್ವಯಂಚಾಲಿತ ಅಮಾನತು"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "ಸ್ವಯಂಚಾಲಿತ ಅಮಾನತು"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "ನಿಷ್ಕ್ರಿಯ ಹಿನ್ನೆಲೆ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಅಮಾನತುಗೊಳಿಸಿ."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "ಸ್ವಯಂಚಾಲಿತ ಅಮಾನತನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "minutesAfterLabel": {
+    "message": "ನಂತರ"
+  },
+  "minutesUnitLabel": {
+    "message": "ನಿಮಿಷ"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "ರಕ್ಷಿತ ಟ್ಯಾಬ್‌ಗಳು"
+  },
+  "protectionLabel": {
+    "message": "ಕೆಳಗಿನ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಎಂದಿಗೂ ಅಮಾನತುಗೊಳಿಸಬೇಡಿ:"
+  },
+  "protectPinned": {
+    "message": "ಪಿನ್ ಮಾಡಿದ"
+  },
+  "protectAudio": {
+    "message": "ಆಡಿಯೊ ಪ್ಲೇ ಆಗುತ್ತಿದೆ"
+  },
+  "protectVideo": {
+    "message": "ವೀಡಿಯೊ ಪ್ಲೇ ಆಗುತ್ತಿದೆ"
+  },
+  "protectForms": {
+    "message": "ಫಾರ್ಮ್‌ಗಳನ್ನು ತುಂಬುತ್ತಿದೆ"
+  },
+  "suspendButton": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಅಮಾನತುಗೊಳಿಸಿ"
+  },
+  "suspendButtonProgress": {
+    "message": "ಅಮಾನತುಗೊಳಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಅಮಾನತುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+  },
+  "statusSuspendFailed": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಅಮಾನತುಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+  },
+  "statusCurrentTab": {
+    "message": "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "statusAutoSuspendOff": {
+    "message": "ಸ್ವಯಂ ಅಮಾನತು ಆಫ್ ಆಗಿದೆ"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ ನಿಮಿಷಗಳ ನಂತರ ಸ್ವಯಂ ಅಮಾನತು",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 ರಿಂದ 1440 ನಿಮಿಷಗಳ ನಡುವೆ ಮೌಲ್ಯವನ್ನು ನಮೂದಿಸಿ"
+  },
+  "statusSaveFailed": {
+    "message": "ಸ್ವಯಂ ಅಮಾನತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+  },
+  "suspendedPageTitle": {
+    "message": "ಅಮಾನತುಗೊಳಿಸಿದ ಟ್ಯಾಬ್"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "ಅಮಾನತುಗೊಳಿಸಲಾಗಿದೆ: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "ಉದಾಹರಣೆ ಪುಟ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "ಅಮಾನತುಗೊಳಿಸಿದ ಟ್ಯಾಬ್"
+  },
+  "suspendedMissingRecord": {
+    "message": "ಈ ಅಮಾನತುಗೊಳಿಸಿದ ಟ್ಯಾಬ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿಯನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗಲಿಲ್ಲ"
+  },
+  "suspendedOnPrefix": {
+    "message": "ಅಮಾನತುಗೊಳಿಸಿದ ದಿನಾಂಕ"
+  },
+  "restoreButton": {
+    "message": "ಟ್ಯಾಬ್ ಮರುಸ್ಥಾಪಿಸಿ"
+  }
+}

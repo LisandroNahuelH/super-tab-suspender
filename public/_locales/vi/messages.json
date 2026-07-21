@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Giải Phóng RAM, Treo Tab Nhàn Rỗi"
+  },
+  "extensionDescription": {
+    "message": "Tạm ngừng các tab bằng cách hiển thị trang khôi phục nhẹ."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Tạm ngừng tab này"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Điều khiển tiện ích"
+  },
+  "currentTabAriaLabel": {
+    "message": "Tab hiện tại"
+  },
+  "currentTabLoading": {
+    "message": "Đang tải..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Tạm ngừng tự động"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Tạm ngừng tự động"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Tạm ngừng các tab nền không hoạt động."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Bật tạm ngừng tự động"
+  },
+  "minutesAfterLabel": {
+    "message": "Sau"
+  },
+  "minutesUnitLabel": {
+    "message": "phút"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Tab được bảo vệ"
+  },
+  "protectionLabel": {
+    "message": "Không bao giờ tạm ngừng các tab sau:"
+  },
+  "protectPinned": {
+    "message": "Đã ghim"
+  },
+  "protectAudio": {
+    "message": "Đang phát âm thanh"
+  },
+  "protectVideo": {
+    "message": "Đang phát video"
+  },
+  "protectForms": {
+    "message": "Đang điền biểu mẫu"
+  },
+  "suspendButton": {
+    "message": "Tạm ngừng tab này"
+  },
+  "suspendButtonProgress": {
+    "message": "Đang tạm ngừng..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Không thể tạm ngừng tab này"
+  },
+  "statusSuspendFailed": {
+    "message": "Không thể tạm ngừng tab này"
+  },
+  "statusCurrentTab": {
+    "message": "Tab hiện tại"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL không khả dụng"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Tạm ngừng tự động đã tắt"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Tạm ngừng tự động sau $MINUTES$ phút",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Nhập giá trị từ 1 đến 1440 phút"
+  },
+  "statusSaveFailed": {
+    "message": "Không thể lưu cài đặt tạm ngừng tự động"
+  },
+  "suspendedPageTitle": {
+    "message": "Tab đã tạm ngừng"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Đã tạm ngừng: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Trang ví dụ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Tab đã tạm ngừng"
+  },
+  "suspendedMissingRecord": {
+    "message": "Không tìm thấy thông tin cho tab đã tạm ngừng này"
+  },
+  "suspendedOnPrefix": {
+    "message": "Tạm ngừng lúc"
+  },
+  "restoreButton": {
+    "message": "Khôi phục tab"
+  }
+}

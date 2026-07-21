@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: وفّر RAM وعلّق التبويبات الخاملة"
+  },
+  "extensionDescription": {
+    "message": "يُعلّق علامات التبويب بعرض صفحة استعادة خفيفة."
+  },
+  "contextMenuSuspendTab": {
+    "message": "تعليق علامة التبويب هذه"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "عناصر تحكم الإضافة"
+  },
+  "currentTabAriaLabel": {
+    "message": "علامة التبويب الحالية"
+  },
+  "currentTabLoading": {
+    "message": "جارٍ التحميل..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "التعليق التلقائي"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "التعليق التلقائي"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "تعليق علامات التبويب غير النشطة في الخلفية."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "تفعيل التعليق التلقائي"
+  },
+  "minutesAfterLabel": {
+    "message": "بعد"
+  },
+  "minutesUnitLabel": {
+    "message": "د"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "علامات التبويب المحمية"
+  },
+  "protectionLabel": {
+    "message": "لا تعلّق علامات التبويب التالية أبدًا:"
+  },
+  "protectPinned": {
+    "message": "المثبتة"
+  },
+  "protectAudio": {
+    "message": "تشغيل الصوت"
+  },
+  "protectVideo": {
+    "message": "تشغيل الفيديو"
+  },
+  "protectForms": {
+    "message": "ملء النماذج"
+  },
+  "suspendButton": {
+    "message": "تعليق علامة التبويب هذه"
+  },
+  "suspendButtonProgress": {
+    "message": "جارٍ التعليق..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "لا يمكن تعليق علامة التبويب هذه"
+  },
+  "statusSuspendFailed": {
+    "message": "تعذّر تعليق علامة التبويب هذه"
+  },
+  "statusCurrentTab": {
+    "message": "علامة التبويب الحالية"
+  },
+  "statusUrlUnavailable": {
+    "message": "الرابط غير متاح"
+  },
+  "statusAutoSuspendOff": {
+    "message": "التعليق التلقائي معطّل"
+  },
+  "statusAutoSuspendOn": {
+    "message": "تعليق تلقائي بعد $MINUTES$ د",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "أدخل قيمة بين 1 و1440 دقيقة"
+  },
+  "statusSaveFailed": {
+    "message": "تعذّر حفظ إعدادات التعليق التلقائي"
+  },
+  "suspendedPageTitle": {
+    "message": "علامة تبويب معلّقة"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "معلّقة: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "صفحة مثال"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "علامة تبويب معلّقة"
+  },
+  "suspendedMissingRecord": {
+    "message": "تعذّر العثور على معلومات علامة التبويب المعلّقة"
+  },
+  "suspendedOnPrefix": {
+    "message": "عُلّقت في"
+  },
+  "restoreButton": {
+    "message": "استعادة علامة التبويب"
+  }
+}

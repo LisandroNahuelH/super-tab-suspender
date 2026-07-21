@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM 확보, 유휴 탭 자동 일시중지"
+  },
+  "extensionDescription": {
+    "message": "가벼운 복원 페이지를 표시하여 탭을 일시 중단합니다."
+  },
+  "contextMenuSuspendTab": {
+    "message": "이 탭 일시 중단"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "확장 프로그램 설정"
+  },
+  "currentTabAriaLabel": {
+    "message": "현재 탭"
+  },
+  "currentTabLoading": {
+    "message": "로드 중..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "자동 일시 중단"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "자동 일시 중단"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "비활성 백그라운드 탭을 일시 중단합니다."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "자동 일시 중단 사용"
+  },
+  "minutesAfterLabel": {
+    "message": "후"
+  },
+  "minutesUnitLabel": {
+    "message": "분"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "보호된 탭"
+  },
+  "protectionLabel": {
+    "message": "다음 탭은 일시 중단하지 않음:"
+  },
+  "protectPinned": {
+    "message": "고정됨"
+  },
+  "protectAudio": {
+    "message": "오디오 재생 중"
+  },
+  "protectVideo": {
+    "message": "동영상 재생 중"
+  },
+  "protectForms": {
+    "message": "양식 작성 중"
+  },
+  "suspendButton": {
+    "message": "이 탭 일시 중단"
+  },
+  "suspendButtonProgress": {
+    "message": "일시 중단 중..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "이 탭은 일시 중단할 수 없습니다"
+  },
+  "statusSuspendFailed": {
+    "message": "이 탭을 일시 중단할 수 없습니다"
+  },
+  "statusCurrentTab": {
+    "message": "현재 탭"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL을 사용할 수 없음"
+  },
+  "statusAutoSuspendOff": {
+    "message": "자동 일시 중단 꺼짐"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$분 후 자동 일시 중단",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1에서 1440 사이의 값을 입력하세요"
+  },
+  "statusSaveFailed": {
+    "message": "자동 일시 중단 설정을 저장할 수 없습니다"
+  },
+  "suspendedPageTitle": {
+    "message": "일시 중단된 탭"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "일시 중단됨: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "예시 페이지"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "일시 중단된 탭"
+  },
+  "suspendedMissingRecord": {
+    "message": "이 일시 중단된 탭의 정보를 찾을 수 없습니다"
+  },
+  "suspendedOnPrefix": {
+    "message": "일시 중단 시각"
+  },
+  "restoreButton": {
+    "message": "탭 복원"
+  }
+}

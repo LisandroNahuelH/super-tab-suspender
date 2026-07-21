@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM解放、アイドルタブを自動停止"
+  },
+  "extensionDescription": {
+    "message": "軽量な復元ページを表示してタブを一時停止します。"
+  },
+  "contextMenuSuspendTab": {
+    "message": "このタブを一時停止"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "拡張機能の操作"
+  },
+  "currentTabAriaLabel": {
+    "message": "現在のタブ"
+  },
+  "currentTabLoading": {
+    "message": "読み込み中..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "自動一時停止"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "自動一時停止"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "非アクティブなバックグラウンドタブを一時停止します。"
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "自動一時停止を有効にする"
+  },
+  "minutesAfterLabel": {
+    "message": "後"
+  },
+  "minutesUnitLabel": {
+    "message": "分"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "保護されたタブ"
+  },
+  "protectionLabel": {
+    "message": "次のタブは一時停止しない:"
+  },
+  "protectPinned": {
+    "message": "ピン留め"
+  },
+  "protectAudio": {
+    "message": "音声再生中"
+  },
+  "protectVideo": {
+    "message": "動画再生中"
+  },
+  "protectForms": {
+    "message": "フォーム入力中"
+  },
+  "suspendButton": {
+    "message": "このタブを一時停止"
+  },
+  "suspendButtonProgress": {
+    "message": "一時停止中..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "このタブは一時停止できません"
+  },
+  "statusSuspendFailed": {
+    "message": "このタブを一時停止できませんでした"
+  },
+  "statusCurrentTab": {
+    "message": "現在のタブ"
+  },
+  "statusUrlUnavailable": {
+    "message": "URLを利用できません"
+  },
+  "statusAutoSuspendOff": {
+    "message": "自動一時停止はオフです"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$分後に自動一時停止",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1から1440の間の値を入力してください"
+  },
+  "statusSaveFailed": {
+    "message": "自動一時停止の設定を保存できませんでした"
+  },
+  "suspendedPageTitle": {
+    "message": "一時停止中のタブ"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "一時停止: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "サンプルページ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "一時停止中のタブ"
+  },
+  "suspendedMissingRecord": {
+    "message": "この一時停止タブの情報が見つかりませんでした"
+  },
+  "suspendedOnPrefix": {
+    "message": "一時停止日時"
+  },
+  "restoreButton": {
+    "message": "タブを復元"
+  }
+}

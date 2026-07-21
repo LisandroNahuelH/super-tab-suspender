@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Free RAM, I-Suspend Idle Tabs"
+  },
+  "extensionDescription": {
+    "message": "Sinususpinde ang mga tab sa pamamagitan ng magaan na pahinang pangbawi."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Isuspend ang tab na ito"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Mga kontrol ng ekstensyon"
+  },
+  "currentTabAriaLabel": {
+    "message": "Kasalukuyang tab"
+  },
+  "currentTabLoading": {
+    "message": "Naglo-load..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Awtomatikong pagsuspinde"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Awtomatikong pagsuspinde"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Isuspend ang mga hindi aktibong tab sa likuran."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Paganahin ang awtomatikong pagsuspinde"
+  },
+  "minutesAfterLabel": {
+    "message": "Pagkatapos ng"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Mga protektadong tab"
+  },
+  "protectionLabel": {
+    "message": "Huwag kailanman isuspend ang mga sumusunod na tab:"
+  },
+  "protectPinned": {
+    "message": "Naka-pin"
+  },
+  "protectAudio": {
+    "message": "May tumutugtog na tunog"
+  },
+  "protectVideo": {
+    "message": "May tumutugtog na bidyo"
+  },
+  "protectForms": {
+    "message": "Nagpupuno ng porma"
+  },
+  "suspendButton": {
+    "message": "Isuspend ang tab na ito"
+  },
+  "suspendButtonProgress": {
+    "message": "Sinususpinde..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Hindi maaaring isuspend ang tab na ito"
+  },
+  "statusSuspendFailed": {
+    "message": "Hindi naisuspend ang tab na ito"
+  },
+  "statusCurrentTab": {
+    "message": "Kasalukuyang tab"
+  },
+  "statusUrlUnavailable": {
+    "message": "Walang address"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Patay ang awtomatikong pagsuspinde"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Awtomatikong pagsuspinde pagkatapos ng $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Maglagay ng halaga sa pagitan ng 1 at 1440 minuto"
+  },
+  "statusSaveFailed": {
+    "message": "Hindi mai-save ang mga opsyon ng awtomatikong pagsuspinde"
+  },
+  "suspendedPageTitle": {
+    "message": "Nasuspinde na tab"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Nasuspinde: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Halimbawang pahina"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Nasuspinde na tab"
+  },
+  "suspendedMissingRecord": {
+    "message": "Hindi mahanap ang impormasyon para sa tab na ito"
+  },
+  "suspendedOnPrefix": {
+    "message": "Nasuspinde noong"
+  },
+  "restoreButton": {
+    "message": "Ibalik ang tab"
+  }
+}

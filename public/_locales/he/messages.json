@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: שחרר RAM, השעה כרטיסיות לא פעילות"
+  },
+  "extensionDescription": {
+    "message": "משעה כרטיסיות על ידי הצגת דף שחזור קל."
+  },
+  "contextMenuSuspendTab": {
+    "message": "השעה כרטיסייה זו"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "בקרות תוסף"
+  },
+  "currentTabAriaLabel": {
+    "message": "כרטיסייה נוכחית"
+  },
+  "currentTabLoading": {
+    "message": "טוען..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "השעיה אוטומטית"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "השעיה אוטומטית"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "השעה כרטיסיות רקע לא פעילות."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "הפעל השעיה אוטומטית"
+  },
+  "minutesAfterLabel": {
+    "message": "לאחר"
+  },
+  "minutesUnitLabel": {
+    "message": "דק׳"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "כרטיסיות מוגנות"
+  },
+  "protectionLabel": {
+    "message": "לעולם אל תשעה את הכרטיסיות הבאות:"
+  },
+  "protectPinned": {
+    "message": "מוצמדות"
+  },
+  "protectAudio": {
+    "message": "מנגנות אודיו"
+  },
+  "protectVideo": {
+    "message": "מנגנות וידאו"
+  },
+  "protectForms": {
+    "message": "ממלאים טפסים"
+  },
+  "suspendButton": {
+    "message": "השעה כרטיסייה זו"
+  },
+  "suspendButtonProgress": {
+    "message": "משעה..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "לא ניתן להשעות כרטיסייה זו"
+  },
+  "statusSuspendFailed": {
+    "message": "לא ניתן היה להשעות כרטיסייה זו"
+  },
+  "statusCurrentTab": {
+    "message": "כרטיסייה נוכחית"
+  },
+  "statusUrlUnavailable": {
+    "message": "כתובת לא זמינה"
+  },
+  "statusAutoSuspendOff": {
+    "message": "השעיה אוטומטית כבויה"
+  },
+  "statusAutoSuspendOn": {
+    "message": "השעיה אוטומטית לאחר $MINUTES$ דק׳",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "הזן ערך בין 1 ל־1440 דקות"
+  },
+  "statusSaveFailed": {
+    "message": "לא ניתן היה לשמור את הגדרות ההשעיה האוטומטית"
+  },
+  "suspendedPageTitle": {
+    "message": "כרטיסייה מושעית"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "מושעה: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "דף לדוגמה"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "כרטיסייה מושעית"
+  },
+  "suspendedMissingRecord": {
+    "message": "לא ניתן היה למצוא את המידע עבור כרטיסייה מושעית זו"
+  },
+  "suspendedOnPrefix": {
+    "message": "הושעה ב־"
+  },
+  "restoreButton": {
+    "message": "שחזר כרטיסייה"
+  }
+}

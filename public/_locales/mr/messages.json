@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM मोकळे, निष्क्रिय टॅब सस्पेंड"
+  },
+  "extensionDescription": {
+    "message": "हलकी पुनर्स्थापना पृष्ठ दाखवून टॅब निलंबित करते."
+  },
+  "contextMenuSuspendTab": {
+    "message": "हा टॅब निलंबित करा"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "एक्सटेंशन नियंत्रण"
+  },
+  "currentTabAriaLabel": {
+    "message": "सध्याचा टॅब"
+  },
+  "currentTabLoading": {
+    "message": "लोड होत आहे..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "स्वयंचलित निलंबन"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "स्वयंचलित निलंबन"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "निष्क्रिय पार्श्वभूमी टॅब निलंबित करा."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "स्वयंचलित निलंबन सक्षम करा"
+  },
+  "minutesAfterLabel": {
+    "message": "नंतर"
+  },
+  "minutesUnitLabel": {
+    "message": "मिनि."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "संरक्षित टॅब"
+  },
+  "protectionLabel": {
+    "message": "खालील टॅब कधीही निलंबित करू नका:"
+  },
+  "protectPinned": {
+    "message": "पिन केलेले"
+  },
+  "protectAudio": {
+    "message": "ऑडिओ वाजत आहे"
+  },
+  "protectVideo": {
+    "message": "व्हिडिओ वाजत आहे"
+  },
+  "protectForms": {
+    "message": "फॉर्म भरत आहे"
+  },
+  "suspendButton": {
+    "message": "हा टॅब निलंबित करा"
+  },
+  "suspendButtonProgress": {
+    "message": "निलंबित करत आहे..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "हा टॅब निलंबित करता येत नाही"
+  },
+  "statusSuspendFailed": {
+    "message": "हा टॅब निलंबित करता आला नाही"
+  },
+  "statusCurrentTab": {
+    "message": "सध्याचा टॅब"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL उपलब्ध नाही"
+  },
+  "statusAutoSuspendOff": {
+    "message": "स्वयं निलंबन बंद आहे"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ मिनिटांनंतर स्वयं निलंबन",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "1 ते 1440 मिनिटांदरम्यान मूल्य प्रविष्ट करा"
+  },
+  "statusSaveFailed": {
+    "message": "स्वयं निलंबन सेटिंग्ज जतन करता आल्या नाहीत"
+  },
+  "suspendedPageTitle": {
+    "message": "निलंबित टॅब"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "निलंबित: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "उदाहरण पृष्ठ"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "निलंबित टॅब"
+  },
+  "suspendedMissingRecord": {
+    "message": "या निलंबित टॅबची माहिती सापडली नाही"
+  },
+  "suspendedOnPrefix": {
+    "message": "निलंबनाची वेळ"
+  },
+  "restoreButton": {
+    "message": "टॅब पुनर्स्थापित करा"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Sprosti RAM, Zaustavi Nedejavne Zavihke"
+  },
+  "extensionDescription": {
+    "message": "Začasno zaustavi zavihke z lažjo stranjo za obnovitev."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Začasno zaustavi ta zavihek"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Kontrole razširitve"
+  },
+  "currentTabAriaLabel": {
+    "message": "Trenutni zavihek"
+  },
+  "currentTabLoading": {
+    "message": "Nalaganje..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Samodejno zaustavljanje"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Samodejno zaustavljanje"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Začasno zaustavi neaktivne zavihke v ozadju."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Omogoči samodejno zaustavljanje"
+  },
+  "minutesAfterLabel": {
+    "message": "Po"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Zaščiteni zavihki"
+  },
+  "protectionLabel": {
+    "message": "Nikoli ne zaustavi naslednjih zavihkov:"
+  },
+  "protectPinned": {
+    "message": "Pripeto"
+  },
+  "protectAudio": {
+    "message": "Predvajanje zvoka"
+  },
+  "protectVideo": {
+    "message": "Predvajanje videa"
+  },
+  "protectForms": {
+    "message": "Izpolnjevanje obrazcev"
+  },
+  "suspendButton": {
+    "message": "Začasno zaustavi ta zavihek"
+  },
+  "suspendButtonProgress": {
+    "message": "Zaustavljanje..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Tega zavihka ni mogoče zaustaviti"
+  },
+  "statusSuspendFailed": {
+    "message": "Tega zavihka ni bilo mogoče zaustaviti"
+  },
+  "statusCurrentTab": {
+    "message": "Trenutni zavihek"
+  },
+  "statusUrlUnavailable": {
+    "message": "Naslov URL ni na voljo"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Samodejno zaustavljanje je izklopljeno"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Samodejno zaustavljanje po $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Vnesite vrednost med 1 in 1440 minutami"
+  },
+  "statusSaveFailed": {
+    "message": "Nastavitev samodejnega zaustavljanja ni bilo mogoče shraniti"
+  },
+  "suspendedPageTitle": {
+    "message": "Zaustavljen zavihek"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Zaustavljeno: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Primer strani"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Zaustavljen zavihek"
+  },
+  "suspendedMissingRecord": {
+    "message": "Podatkov o tem zaustavljenem zavihku ni bilo mogoče najti"
+  },
+  "suspendedOnPrefix": {
+    "message": "Zaustavljeno"
+  },
+  "restoreButton": {
+    "message": "Obnovi zavihek"
+  }
+}

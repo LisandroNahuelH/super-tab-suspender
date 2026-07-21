@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Libère La RAM, Suspend Les Onglets Inactifs"
+  },
+  "extensionDescription": {
+    "message": "Suspend les onglets en affichant une page de restauration légère."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Suspendre cet onglet"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Commandes de l'extension"
+  },
+  "currentTabAriaLabel": {
+    "message": "Onglet actuel"
+  },
+  "currentTabLoading": {
+    "message": "Chargement..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Suspension automatique"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Suspension automatique"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Suspendre les onglets d'arrière-plan inactifs."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Activer la suspension automatique"
+  },
+  "minutesAfterLabel": {
+    "message": "Après"
+  },
+  "minutesUnitLabel": {
+    "message": "min"
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Onglets protégés"
+  },
+  "protectionLabel": {
+    "message": "Ne jamais suspendre les onglets suivants :"
+  },
+  "protectPinned": {
+    "message": "Épinglé"
+  },
+  "protectAudio": {
+    "message": "Lecture audio"
+  },
+  "protectVideo": {
+    "message": "Lecture vidéo"
+  },
+  "protectForms": {
+    "message": "Saisie de formulaire"
+  },
+  "suspendButton": {
+    "message": "Suspendre cet onglet"
+  },
+  "suspendButtonProgress": {
+    "message": "Suspension..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Cet onglet ne peut pas être suspendu"
+  },
+  "statusSuspendFailed": {
+    "message": "Impossible de suspendre cet onglet"
+  },
+  "statusCurrentTab": {
+    "message": "Onglet actuel"
+  },
+  "statusUrlUnavailable": {
+    "message": "Adresse indisponible"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Suspension automatique désactivée"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Suspension automatique après $MINUTES$ min",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Saisissez une valeur entre 1 et 1440 minutes"
+  },
+  "statusSaveFailed": {
+    "message": "Impossible d'enregistrer les paramètres de suspension automatique"
+  },
+  "suspendedPageTitle": {
+    "message": "Onglet suspendu"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Suspendu : $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Page exemple"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Onglet suspendu"
+  },
+  "suspendedMissingRecord": {
+    "message": "Impossible de trouver les informations de cet onglet suspendu"
+  },
+  "suspendedOnPrefix": {
+    "message": "Suspendu le"
+  },
+  "restoreButton": {
+    "message": "Restaurer l'onglet"
+  }
+}

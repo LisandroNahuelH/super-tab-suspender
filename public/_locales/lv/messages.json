@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: Atbrīvo RAM, Apturi Dīkstāves Cilnes"
+  },
+  "extensionDescription": {
+    "message": "Aiztur cilnes, rādot vieglo atjaunošanas lapu."
+  },
+  "contextMenuSuspendTab": {
+    "message": "Aizturēt šo cilni"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "Paplašinājuma vadīkla"
+  },
+  "currentTabAriaLabel": {
+    "message": "Pašreizējā cilne"
+  },
+  "currentTabLoading": {
+    "message": "Ielādē..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "Automātiska aizturēšana"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "Automātiska aizturēšana"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "Aizturēt neaktīvās fona cilnes."
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "Iespējot automātisko aizturēšanu"
+  },
+  "minutesAfterLabel": {
+    "message": "Pēc"
+  },
+  "minutesUnitLabel": {
+    "message": "min."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "Aizsargātās cilnes"
+  },
+  "protectionLabel": {
+    "message": "Nekad neaizturēt šādas cilnes:"
+  },
+  "protectPinned": {
+    "message": "Piespraustās"
+  },
+  "protectAudio": {
+    "message": "Audio atskaņošana"
+  },
+  "protectVideo": {
+    "message": "Video atskaņošana"
+  },
+  "protectForms": {
+    "message": "Veidlapu aizpildīšana"
+  },
+  "suspendButton": {
+    "message": "Aizturēt šo cilni"
+  },
+  "suspendButtonProgress": {
+    "message": "Aiztur..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "Šo cilni nevar aizturēt"
+  },
+  "statusSuspendFailed": {
+    "message": "Neizdevās aizturēt šo cilni"
+  },
+  "statusCurrentTab": {
+    "message": "Pašreizējā cilne"
+  },
+  "statusUrlUnavailable": {
+    "message": "URL nav pieejams"
+  },
+  "statusAutoSuspendOff": {
+    "message": "Automātiskā aizturēšana ir izslēgta"
+  },
+  "statusAutoSuspendOn": {
+    "message": "Automātiski aizturēt pēc $MINUTES$ min.",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "Ievadiet vērtību no 1 līdz 1440 minūtēm"
+  },
+  "statusSaveFailed": {
+    "message": "Neizdevās saglabāt automātiskās aizturēšanas iestatījumus"
+  },
+  "suspendedPageTitle": {
+    "message": "Aizturēta cilne"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "Aizturēta: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "Parauga lapa"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "Aizturēta cilne"
+  },
+  "suspendedMissingRecord": {
+    "message": "Neizdevās atrast informāciju par šo aizturēto cilni"
+  },
+  "suspendedOnPrefix": {
+    "message": "Aizturēšanas datums"
+  },
+  "restoreButton": {
+    "message": "Atjaunot cilni"
+  }
+}

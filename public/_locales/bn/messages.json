@@ -1,0 +1,119 @@
+{
+  "extensionName": {
+    "message": "Súper Tab Suspender Premium11: RAM খালি, নিষ্ক্রিয় ট্যাব স্থগিত"
+  },
+  "extensionDescription": {
+    "message": "হালকা পুনরুদ্ধার পৃষ্ঠা দেখিয়ে ট্যাব স্থগিত করে।"
+  },
+  "contextMenuSuspendTab": {
+    "message": "এই ট্যাব স্থগিত করুন"
+  },
+  "popupPageTitle": {
+    "message": "Súper Tab Suspender"
+  },
+  "popupEyebrow": {
+    "message": "এক্সটেনশন নিয়ন্ত্রণ"
+  },
+  "currentTabAriaLabel": {
+    "message": "বর্তমান ট্যাব"
+  },
+  "currentTabLoading": {
+    "message": "লোড হচ্ছে..."
+  },
+  "automaticSuspensionAriaLabel": {
+    "message": "স্বয়ংক্রিয় স্থগিতকরণ"
+  },
+  "sectionAutoSuspendTitle": {
+    "message": "স্বয়ংক্রিয় স্থগিতকরণ"
+  },
+  "sectionAutoSuspendCopy": {
+    "message": "নিষ্ক্রিয় ব্যাকগ্রাউন্ড ট্যাব স্থগিত করুন।"
+  },
+  "autoSuspendToggleSrOnly": {
+    "message": "স্বয়ংক্রিয় স্থগিতকরণ সক্ষম করুন"
+  },
+  "minutesAfterLabel": {
+    "message": "পরে"
+  },
+  "minutesUnitLabel": {
+    "message": "মি."
+  },
+  "protectedTabsAriaLabel": {
+    "message": "সুরক্ষিত ট্যাব"
+  },
+  "protectionLabel": {
+    "message": "নিম্নলিখিত ট্যাব কখনো স্থগিত করবেন না:"
+  },
+  "protectPinned": {
+    "message": "পিন করা"
+  },
+  "protectAudio": {
+    "message": "অডিও চলছে"
+  },
+  "protectVideo": {
+    "message": "ভিডিও চলছে"
+  },
+  "protectForms": {
+    "message": "ফর্ম পূরণ করা হচ্ছে"
+  },
+  "suspendButton": {
+    "message": "এই ট্যাব স্থগিত করুন"
+  },
+  "suspendButtonProgress": {
+    "message": "স্থগিত করা হচ্ছে..."
+  },
+  "statusTabCannotSuspend": {
+    "message": "এই ট্যাব স্থগিত করা যাবে না"
+  },
+  "statusSuspendFailed": {
+    "message": "এই ট্যাব স্থগিত করা যায়নি"
+  },
+  "statusCurrentTab": {
+    "message": "বর্তমান ট্যাব"
+  },
+  "statusUrlUnavailable": {
+    "message": "ঠিকানা উপলব্ধ নেই"
+  },
+  "statusAutoSuspendOff": {
+    "message": "স্বয়ংক্রিয় স্থগিতকরণ বন্ধ"
+  },
+  "statusAutoSuspendOn": {
+    "message": "$MINUTES$ মি. পর স্বয়ংক্রিয় স্থগিতকরণ",
+    "placeholders": {
+      "minutes": {
+        "content": "$1",
+        "example": "30"
+      }
+    }
+  },
+  "statusMinutesInvalid": {
+    "message": "১ থেকে ১৪৪০ মিনিটের মধ্যে একটি মান লিখুন"
+  },
+  "statusSaveFailed": {
+    "message": "স্বয়ংক্রিয় স্থগিতকরণ সেটিংস সংরক্ষণ করা যায়নি"
+  },
+  "suspendedPageTitle": {
+    "message": "স্থগিত ট্যাব"
+  },
+  "suspendedPageTitleWithName": {
+    "message": "স্থগিত: $TITLE$",
+    "placeholders": {
+      "title": {
+        "content": "$1",
+        "example": "উদাহরণ পৃষ্ঠা"
+      }
+    }
+  },
+  "suspendedStateLabel": {
+    "message": "স্থগিত ট্যাব"
+  },
+  "suspendedMissingRecord": {
+    "message": "এই স্থগিত ট্যাবের তথ্য খুঁজে পাওয়া যায়নি"
+  },
+  "suspendedOnPrefix": {
+    "message": "স্থগিত হয়েছে"
+  },
+  "restoreButton": {
+    "message": "ট্যাব পুনরুদ্ধার করুন"
+  }
+}
