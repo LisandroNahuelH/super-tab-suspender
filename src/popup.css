@@ -32,6 +32,27 @@
   --page-glow-left: rgba(95, 231, 180, 0.18);
   --page-glow-right: rgba(255, 151, 82, 0.22);
   --font-ui: "Montserrat", "Segoe UI Variable", "Segoe UI", "Trebuchet MS", sans-serif;
+  --scrollbar-thumb: rgba(17, 173, 50, 0.96);
+  --scrollbar-thumb-strong: rgba(12, 140, 40, 0.94);
+  --scrollbar-track-border: rgba(255, 255, 255, 0.06);
+  --scrollbar-track-bg:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.015)),
+    linear-gradient(180deg, rgba(11, 24, 36, 0.94), rgba(6, 14, 22, 0.9));
+  --scrollbar-track-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.03);
+  --scrollbar-thumb-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.55),
+    0 0 0 1px rgba(95, 231, 140, 0.14),
+    0 0 18px rgba(17, 173, 50, 0.28);
+  --scrollbar-thumb-hover: rgba(46, 200, 80, 0.98);
+  --scrollbar-thumb-hover-strong: rgba(17, 173, 50, 0.96);
+  --scrollbar-thumb-hover-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.62),
+    0 0 0 1px rgba(95, 231, 140, 0.2),
+    0 0 22px rgba(17, 173, 50, 0.34);
+  --scrollbar-thumb-active: rgba(17, 173, 50, 0.96);
+  --scrollbar-thumb-active-strong: rgba(10, 120, 34, 0.94);
   color: var(--text);
   background: var(--bg-bottom);
   font-family: var(--font-ui);
@@ -54,7 +75,8 @@ body {
 }
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
   color: var(--text);
   background:
     radial-gradient(circle at top left, var(--page-glow-left), transparent 30%),
@@ -62,11 +84,62 @@ body {
     linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  scrollbar-gutter: stable;
+  scrollbar-width: auto;
+  scrollbar-color: var(--scrollbar-thumb) color-mix(in srgb, #0c1b27 70%, transparent 30%);
 }
 
 button,
 input {
   font-family: inherit;
+}
+
+body::-webkit-scrollbar {
+  width: 15px;
+}
+
+body::-webkit-scrollbar-track {
+  border-left: 1px solid var(--scrollbar-track-border);
+  border-radius: 999px;
+  background: var(--scrollbar-track-bg);
+  box-shadow: var(--scrollbar-track-shadow);
+}
+
+body::-webkit-scrollbar-thumb {
+  min-height: 54px;
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background-clip: padding-box;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--scrollbar-thumb) 42%, white 58%),
+    var(--scrollbar-thumb) 48%,
+    var(--scrollbar-thumb-strong)
+  );
+  box-shadow: var(--scrollbar-thumb-shadow);
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--scrollbar-thumb-hover) 38%, white 62%),
+    var(--scrollbar-thumb-hover) 46%,
+    var(--scrollbar-thumb-hover-strong)
+  );
+  box-shadow: var(--scrollbar-thumb-hover-shadow);
+}
+
+body::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--scrollbar-thumb-active) 38%, white 62%),
+    var(--scrollbar-thumb-active) 46%,
+    var(--scrollbar-thumb-active-strong)
+  );
+}
+
+body::-webkit-scrollbar-corner {
+  background: transparent;
 }
 
 .popup-shell {
