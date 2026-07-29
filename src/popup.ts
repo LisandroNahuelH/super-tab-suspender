@@ -9,6 +9,7 @@ import {
 } from "./autoSuspendSettings";
 import { getMessage } from "./shared/getMessage";
 import { setDocumentLocaleAttributes } from "./shared/set-document-locale-attributes";
+import { sendAnonymousHeartbeat } from "./features/heartbeat/send-anonymous-heartbeat";
 
 const SUSPEND_ACTIVE_TAB_MESSAGE = "suspend-active-tab";
 const FALLBACK_ICON_URL = "/icons/icon-32.png";
@@ -74,6 +75,12 @@ export function applyPopupCopy(): void {
 
   popupEyebrow && (popupEyebrow.textContent = getMessage("popupEyebrow"));
   popupHeading && (popupHeading.textContent = getMessage("extensionName"));
+  const p11Brand = document.querySelector<HTMLElement>('[data-role="p11-brand"]');
+  if (p11Brand) {
+    const brandLabel = getMessage("openPremium11Website");
+    p11Brand.setAttribute("aria-label", brandLabel);
+    p11Brand.setAttribute("title", brandLabel);
+  }
   currentTabSection?.setAttribute("aria-label", getMessage("currentTabAriaLabel"));
   autoSuspendSection?.setAttribute("aria-label", getMessage("automaticSuspensionAriaLabel"));
   autoSuspendToggleLabel &&
@@ -109,6 +116,7 @@ export function applyPopupCopy(): void {
 async function initializePopup(): Promise<void> {
   setDocumentLocaleAttributes();
   applyPopupCopy();
+  void sendAnonymousHeartbeat("ping");
 
   const [activeTab] = await Promise.all([
     getActiveTab(),

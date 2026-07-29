@@ -4,6 +4,8 @@ import {
   readAutoSuspendSettings
 } from "./autoSuspendSettings";
 import { getMessage } from "./shared/getMessage";
+import { registerHeartbeatOnInstalled } from "./features/heartbeat/register-heartbeat-on-installed";
+import { registerUninstallFarewellUrl } from "./features/heartbeat/register-uninstall-farewell-url";
 
 const SUSPEND_TAB_MENU_ID = "suspend-current-tab";
 const SUSPENDABLE_URL_PATTERNS = ["http://*/*", "https://*/*"];
@@ -50,6 +52,8 @@ type TabActivityById = Record<string, number>;
 type PageProtectionStateById = Record<string, StoredPageProtectionState>;
 
 void initializeAutoSuspendRuntime();
+registerHeartbeatOnInstalled();
+void registerUninstallFarewellUrl();
 
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
@@ -64,6 +68,7 @@ chrome.runtime.onInstalled.addListener(() => {
 
 chrome.runtime.onStartup.addListener(() => {
   void initializeAutoSuspendRuntime();
+  void registerUninstallFarewellUrl();
 });
 
 chrome.contextMenus.onClicked.addListener((info, tab) => {
