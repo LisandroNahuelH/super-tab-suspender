@@ -176,6 +176,6 @@ Open an issue with the [bug template](.github/ISSUE_TEMPLATE/bug.yml): extension
 
 ## Credits
 
-Built by [@LisandroNahuelH](https://github.com/LisandroNahuelH). MIT licensed: the code is free to reuse and adapt, and the [trademark notice](LICENSE) still applies to the Premium11 name and marks.
+Built by [@LisandroNahuelH](https://github.com/LisandroNahuelH). MIT licensed: the code is free to reuse and adapt, and the [trademark notice](TRADEMARKS.md) still applies to the Premium11 name and marks.
 
 Issues are welcome; pull requests are not accepted, in line with [CONTRIBUTING.md](CONTRIBUTING.md).

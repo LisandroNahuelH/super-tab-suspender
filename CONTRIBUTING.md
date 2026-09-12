@@ -21,7 +21,7 @@ If you want a behaviour changed, open an issue. If it is accepted, the maintaine
 The MIT license lets you fork, modify and ship your own build, under two conditions:
 
 - keep the copyright and license notice;
-- do not use the Premium11 name or marks for your build (see the trademark notice in [LICENSE](LICENSE)).
+- do not use the Premium11 name or marks for your build (see [TRADEMARKS.md](TRADEMARKS.md)).
 
 Please do not file bugs about forks here: reproduce them against a build from this repository first.
 
