@@ -32,8 +32,9 @@
   --page-glow-left: rgba(95, 231, 180, 0.18);
   --page-glow-right: rgba(255, 151, 82, 0.22);
   --font-ui: "Montserrat", "Segoe UI Variable", "Segoe UI", "Trebuchet MS", sans-serif;
-  --scrollbar-thumb: rgba(17, 173, 50, 0.96);
-  --scrollbar-thumb-strong: rgba(12, 140, 40, 0.94);
+  --surface-strong: rgba(12, 27, 39, 0.94);
+  --scrollbar-thumb: #11ad32;
+  --scrollbar-thumb-strong: #0c8c28;
   --scrollbar-track-border: rgba(255, 255, 255, 0.06);
   --scrollbar-track-bg:
     linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.015)),
@@ -43,16 +44,16 @@
     inset 0 0 0 1px rgba(255, 255, 255, 0.03);
   --scrollbar-thumb-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.55),
-    0 0 0 1px rgba(95, 231, 140, 0.14),
-    0 0 18px rgba(17, 173, 50, 0.28);
-  --scrollbar-thumb-hover: rgba(46, 200, 80, 0.98);
-  --scrollbar-thumb-hover-strong: rgba(17, 173, 50, 0.96);
+    0 0 0 1px rgba(17, 173, 50, 0.22),
+    0 0 18px rgba(17, 173, 50, 0.36);
+  --scrollbar-thumb-hover: #2ec850;
+  --scrollbar-thumb-hover-strong: #11ad32;
   --scrollbar-thumb-hover-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.62),
-    0 0 0 1px rgba(95, 231, 140, 0.2),
-    0 0 22px rgba(17, 173, 50, 0.34);
-  --scrollbar-thumb-active: rgba(17, 173, 50, 0.96);
-  --scrollbar-thumb-active-strong: rgba(10, 120, 34, 0.94);
+    0 0 0 1px rgba(17, 173, 50, 0.28),
+    0 0 22px rgba(17, 173, 50, 0.44);
+  --scrollbar-thumb-active: #11ad32;
+  --scrollbar-thumb-active-strong: #0a7822;
   color: var(--text);
   background: var(--bg-bottom);
   font-family: var(--font-ui);
@@ -86,7 +87,7 @@ body {
   -webkit-font-smoothing: antialiased;
   scrollbar-gutter: stable;
   scrollbar-width: auto;
-  scrollbar-color: var(--scrollbar-thumb) color-mix(in srgb, #0c1b27 70%, transparent 30%);
+  scrollbar-color: var(--scrollbar-thumb) color-mix(in srgb, var(--surface-strong) 70%, transparent 30%);
 }
 
 button,
@@ -112,8 +113,8 @@ body::-webkit-scrollbar-thumb {
   background-clip: padding-box;
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--scrollbar-thumb) 42%, white 58%),
-    var(--scrollbar-thumb) 48%,
+    color-mix(in srgb, var(--scrollbar-thumb) 78%, white 22%),
+    var(--scrollbar-thumb) 42%,
     var(--scrollbar-thumb-strong)
   );
   box-shadow: var(--scrollbar-thumb-shadow);
@@ -122,8 +123,8 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--scrollbar-thumb-hover) 38%, white 62%),
-    var(--scrollbar-thumb-hover) 46%,
+    color-mix(in srgb, var(--scrollbar-thumb-hover) 74%, white 26%),
+    var(--scrollbar-thumb-hover) 42%,
     var(--scrollbar-thumb-hover-strong)
   );
   box-shadow: var(--scrollbar-thumb-hover-shadow);
@@ -132,8 +133,8 @@ body::-webkit-scrollbar-thumb:hover {
 body::-webkit-scrollbar-thumb:active {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--scrollbar-thumb-active) 38%, white 62%),
-    var(--scrollbar-thumb-active) 46%,
+    color-mix(in srgb, var(--scrollbar-thumb-active) 74%, white 26%),
+    var(--scrollbar-thumb-active) 42%,
     var(--scrollbar-thumb-active-strong)
   );
 }
@@ -150,22 +151,35 @@ body::-webkit-scrollbar-corner {
   align-content: start;
 }
 
-.popup-header {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 10px;
-  align-items: start;
-  padding: 10px 12px;
-  border: 1px solid var(--card-border);
-  border-radius: 14px;
-  background: var(--card-bg);
-  box-shadow: var(--card-shadow);
-}
-
+/* Outside cards — top-left brand (click → premium11.com) */
 .p11-brand {
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 10px;
+  outline: none;
+  transition:
+    opacity 160ms ease,
+    transform 120ms ease;
+  justify-self: start;
+}
+
+.p11-brand:hover {
+  opacity: 0.92;
+  transform: translateY(-1px);
+}
+
+.p11-brand:focus-visible {
+  outline: 2px solid var(--focus, #ffb07a);
+  outline-offset: 3px;
 }
 
 .p11-brand__mark {
@@ -194,22 +208,13 @@ body::-webkit-scrollbar-corner {
   color: #11ad32;
 }
 
-.eyebrow {
-  margin: 0 0 2px;
-  color: var(--muted);
-  font-size: 0.68rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-h1 {
-  margin: 0;
-  color: var(--text);
-  font-size: 1.05rem;
-  line-height: 1.15;
-  font-weight: 700;
-  letter-spacing: 0.01em;
+@media (prefers-reduced-motion: reduce) {
+  .p11-brand {
+    transition: none;
+  }
+  .p11-brand:hover {
+    transform: none;
+  }
 }
 
 .current-tab-card {

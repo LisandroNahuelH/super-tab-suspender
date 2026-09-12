@@ -1,11 +1,9 @@
 export const POPUP_HTML_FIXTURE = `
 <main class="popup-shell">
-  <header class="popup-header">
-    <div>
-      <p class="eyebrow" data-role="popup-eyebrow"></p>
-      <h1 data-role="popup-heading"></h1>
-    </div>
-  </header>
+  <a class="p11-brand" data-role="p11-brand" href="https://www.premium11.com/" target="_blank" rel="noopener noreferrer">
+    <img class="p11-brand__mark" src="/brand/premium11-mark.svg" alt="" width="28" height="28" />
+    <span class="p11-brand__name"></span>
+  </a>
   <section class="current-tab-card" data-role="current-tab">
     <div class="current-tab-row">
       <img class="current-tab-icon" id="currentTabIcon" alt="" />

@@ -79,9 +79,6 @@ describe("popup i18n locales", () => {
 
       expect(document.documentElement.lang).toBe(localeCase.locale);
       expect(document.documentElement.dir).toBe(localeCase.dir);
-      expect(document.querySelector('[data-role="popup-eyebrow"]')?.textContent).toBe(
-        localeCase.eyebrow
-      );
       expect(document.getElementById("suspendButton")?.textContent).toBe(
         localeCase.suspendButton
       );

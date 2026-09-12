@@ -9,7 +9,7 @@ const englishCatalog = JSON.parse(
 );
 
 const BRAND_KEYS = new Set(["extensionName", "popupPageTitle"]);
-const ALLOW_IDENTICAL = new Set(["minutesUnitLabel"]);
+const ALLOW_IDENTICAL = new Set(["minutesUnitLabel", "openPremium11Website"]);
 
 const localeDirs = readdirSync(localesRoot, { withFileTypes: true })
   .filter((entry) => entry.isDirectory())

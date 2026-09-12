@@ -115,5 +115,9 @@
   },
   "restoreButton": {
     "message": "還原分頁"
+  },
+  "openPremium11Website": {
+    "message": "Open Premium11 website",
+    "description": "Accessible label for Premium11 brand link in popup"
   }
 }
