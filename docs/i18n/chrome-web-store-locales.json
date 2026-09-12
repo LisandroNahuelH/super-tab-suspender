@@ -1,7 +1,7 @@
 [
   {
     "code": "ar",
-    "displayName": "Árabe",
+    "displayName": "Arabic",
     "runtimeFolder": "ar",
     "rtl": true,
     "runtimeStatus": "active",
@@ -10,7 +10,7 @@
   },
   {
     "code": "am",
-    "displayName": "Amhárico",
+    "displayName": "Amharic",
     "runtimeFolder": "am",
     "rtl": false,
     "runtimeStatus": "active",
@@ -19,7 +19,7 @@
   },
   {
     "code": "bg",
-    "displayName": "Búlgaro",
+    "displayName": "Bulgarian",
     "runtimeFolder": "bg",
     "rtl": false,
     "runtimeStatus": "active",
@@ -28,7 +28,7 @@
   },
   {
     "code": "bn",
-    "displayName": "Bengalí",
+    "displayName": "Bengali",
     "runtimeFolder": "bn",
     "rtl": false,
     "runtimeStatus": "active",
@@ -37,7 +37,7 @@
   },
   {
     "code": "ca",
-    "displayName": "Catalán",
+    "displayName": "Catalan",
     "runtimeFolder": "ca",
     "rtl": false,
     "runtimeStatus": "active",
@@ -46,7 +46,7 @@
   },
   {
     "code": "cs",
-    "displayName": "Checo",
+    "displayName": "Czech",
     "runtimeFolder": "cs",
     "rtl": false,
     "runtimeStatus": "active",
@@ -55,7 +55,7 @@
   },
   {
     "code": "da",
-    "displayName": "Danés",
+    "displayName": "Danish",
     "runtimeFolder": "da",
     "rtl": false,
     "runtimeStatus": "active",
@@ -64,7 +64,7 @@
   },
   {
     "code": "de",
-    "displayName": "Alemán",
+    "displayName": "German",
     "runtimeFolder": "de",
     "rtl": false,
     "runtimeStatus": "active",
@@ -73,7 +73,7 @@
   },
   {
     "code": "el",
-    "displayName": "Griego",
+    "displayName": "Greek",
     "runtimeFolder": "el",
     "rtl": false,
     "runtimeStatus": "active",
@@ -82,7 +82,7 @@
   },
   {
     "code": "en",
-    "displayName": "Inglés",
+    "displayName": "English",
     "runtimeFolder": "en",
     "rtl": false,
     "runtimeStatus": "active",
@@ -91,7 +91,7 @@
   },
   {
     "code": "en_AU",
-    "displayName": "Inglés (Australia)",
+    "displayName": "English (Australia)",
     "runtimeFolder": "en",
     "rtl": false,
     "runtimeStatus": "alias",
@@ -100,7 +100,7 @@
   },
   {
     "code": "en_GB",
-    "displayName": "Inglés (Reino Unido)",
+    "displayName": "English (United Kingdom)",
     "runtimeFolder": "en",
     "rtl": false,
     "runtimeStatus": "alias",
@@ -109,7 +109,7 @@
   },
   {
     "code": "en_US",
-    "displayName": "Inglés (EE.UU.)",
+    "displayName": "English (United States)",
     "runtimeFolder": "en",
     "rtl": false,
     "runtimeStatus": "alias",
@@ -118,7 +118,7 @@
   },
   {
     "code": "es",
-    "displayName": "Español",
+    "displayName": "Spanish",
     "runtimeFolder": "es",
     "rtl": false,
     "runtimeStatus": "active",
@@ -127,7 +127,7 @@
   },
   {
     "code": "es_419",
-    "displayName": "Español (Latinoamérica y Caribe)",
+    "displayName": "Spanish (Latin America)",
     "runtimeFolder": "es",
     "rtl": false,
     "runtimeStatus": "alias",
@@ -136,7 +136,7 @@
   },
   {
     "code": "et",
-    "displayName": "Estonio",
+    "displayName": "Estonian",
     "runtimeFolder": "et",
     "rtl": false,
     "runtimeStatus": "active",
@@ -145,7 +145,7 @@
   },
   {
     "code": "fa",
-    "displayName": "Persa",
+    "displayName": "Persian",
     "runtimeFolder": "fa",
     "rtl": true,
     "runtimeStatus": "active",
@@ -154,7 +154,7 @@
   },
   {
     "code": "fi",
-    "displayName": "Finlandés",
+    "displayName": "Finnish",
     "runtimeFolder": "fi",
     "rtl": false,
     "runtimeStatus": "active",
@@ -172,7 +172,7 @@
   },
   {
     "code": "fr",
-    "displayName": "Francés",
+    "displayName": "French",
     "runtimeFolder": "fr",
     "rtl": false,
     "runtimeStatus": "active",
@@ -190,7 +190,7 @@
   },
   {
     "code": "he",
-    "displayName": "Hebreo",
+    "displayName": "Hebrew",
     "runtimeFolder": "he",
     "rtl": true,
     "runtimeStatus": "active",
@@ -208,7 +208,7 @@
   },
   {
     "code": "hr",
-    "displayName": "Croata",
+    "displayName": "Croatian",
     "runtimeFolder": "hr",
     "rtl": false,
     "runtimeStatus": "active",
@@ -217,7 +217,7 @@
   },
   {
     "code": "hu",
-    "displayName": "Húngaro",
+    "displayName": "Hungarian",
     "runtimeFolder": "hu",
     "rtl": false,
     "runtimeStatus": "active",
@@ -226,7 +226,7 @@
   },
   {
     "code": "id",
-    "displayName": "Indonesio",
+    "displayName": "Indonesian",
     "runtimeFolder": "id",
     "rtl": false,
     "runtimeStatus": "active",
@@ -235,7 +235,7 @@
   },
   {
     "code": "it",
-    "displayName": "Italiano",
+    "displayName": "Italian",
     "runtimeFolder": "it",
     "rtl": false,
     "runtimeStatus": "active",
@@ -244,7 +244,7 @@
   },
   {
     "code": "ja",
-    "displayName": "Japonés",
+    "displayName": "Japanese",
     "runtimeFolder": "ja",
     "rtl": false,
     "runtimeStatus": "active",
@@ -262,7 +262,7 @@
   },
   {
     "code": "ko",
-    "displayName": "Coreano",
+    "displayName": "Korean",
     "runtimeFolder": "ko",
     "rtl": false,
     "runtimeStatus": "active",
@@ -271,7 +271,7 @@
   },
   {
     "code": "lt",
-    "displayName": "Lituano",
+    "displayName": "Lithuanian",
     "runtimeFolder": "lt",
     "rtl": false,
     "runtimeStatus": "active",
@@ -280,7 +280,7 @@
   },
   {
     "code": "lv",
-    "displayName": "Letón",
+    "displayName": "Latvian",
     "runtimeFolder": "lv",
     "rtl": false,
     "runtimeStatus": "active",
@@ -307,7 +307,7 @@
   },
   {
     "code": "ms",
-    "displayName": "Malayo",
+    "displayName": "Malay",
     "runtimeFolder": "ms",
     "rtl": false,
     "runtimeStatus": "active",
@@ -316,7 +316,7 @@
   },
   {
     "code": "nl",
-    "displayName": "Neerlandés",
+    "displayName": "Dutch",
     "runtimeFolder": "nl",
     "rtl": false,
     "runtimeStatus": "active",
@@ -325,7 +325,7 @@
   },
   {
     "code": "no",
-    "displayName": "Noruego",
+    "displayName": "Norwegian",
     "runtimeFolder": "no",
     "rtl": false,
     "runtimeStatus": "active",
@@ -334,7 +334,7 @@
   },
   {
     "code": "pl",
-    "displayName": "Polaco",
+    "displayName": "Polish",
     "runtimeFolder": "pl",
     "rtl": false,
     "runtimeStatus": "active",
@@ -343,7 +343,7 @@
   },
   {
     "code": "pt_BR",
-    "displayName": "Portugués (Brasil)",
+    "displayName": "Portuguese (Brazil)",
     "runtimeFolder": "pt_BR",
     "rtl": false,
     "runtimeStatus": "active",
@@ -352,7 +352,7 @@
   },
   {
     "code": "pt_PT",
-    "displayName": "Portugués (Portugal)",
+    "displayName": "Portuguese (Portugal)",
     "runtimeFolder": "pt_PT",
     "rtl": false,
     "runtimeStatus": "active",
@@ -361,7 +361,7 @@
   },
   {
     "code": "ro",
-    "displayName": "Rumano",
+    "displayName": "Romanian",
     "runtimeFolder": "ro",
     "rtl": false,
     "runtimeStatus": "active",
@@ -370,7 +370,7 @@
   },
   {
     "code": "ru",
-    "displayName": "Ruso",
+    "displayName": "Russian",
     "runtimeFolder": "ru",
     "rtl": false,
     "runtimeStatus": "active",
@@ -379,7 +379,7 @@
   },
   {
     "code": "sk",
-    "displayName": "Eslovaco",
+    "displayName": "Slovak",
     "runtimeFolder": "sk",
     "rtl": false,
     "runtimeStatus": "active",
@@ -388,7 +388,7 @@
   },
   {
     "code": "sl",
-    "displayName": "Esloveno",
+    "displayName": "Slovenian",
     "runtimeFolder": "sl",
     "rtl": false,
     "runtimeStatus": "active",
@@ -397,7 +397,7 @@
   },
   {
     "code": "sr",
-    "displayName": "Serbio",
+    "displayName": "Serbian",
     "runtimeFolder": "sr",
     "rtl": false,
     "runtimeStatus": "active",
@@ -406,7 +406,7 @@
   },
   {
     "code": "sv",
-    "displayName": "Sueco",
+    "displayName": "Swedish",
     "runtimeFolder": "sv",
     "rtl": false,
     "runtimeStatus": "active",
@@ -415,7 +415,7 @@
   },
   {
     "code": "sw",
-    "displayName": "Suajili",
+    "displayName": "Swahili",
     "runtimeFolder": "sw",
     "rtl": false,
     "runtimeStatus": "active",
@@ -442,7 +442,7 @@
   },
   {
     "code": "th",
-    "displayName": "Tailandés",
+    "displayName": "Thai",
     "runtimeFolder": "th",
     "rtl": false,
     "runtimeStatus": "active",
@@ -451,7 +451,7 @@
   },
   {
     "code": "tr",
-    "displayName": "Turco",
+    "displayName": "Turkish",
     "runtimeFolder": "tr",
     "rtl": false,
     "runtimeStatus": "active",
@@ -460,7 +460,7 @@
   },
   {
     "code": "uk",
-    "displayName": "Ucraniano",
+    "displayName": "Ukrainian",
     "runtimeFolder": "uk",
     "rtl": false,
     "runtimeStatus": "active",
@@ -469,7 +469,7 @@
   },
   {
     "code": "vi",
-    "displayName": "Vietnamita",
+    "displayName": "Vietnamese",
     "runtimeFolder": "vi",
     "rtl": false,
     "runtimeStatus": "active",
@@ -478,7 +478,7 @@
   },
   {
     "code": "zh_CN",
-    "displayName": "Chino (China)",
+    "displayName": "Chinese (Simplified)",
     "runtimeFolder": "zh_CN",
     "rtl": false,
     "runtimeStatus": "active",
@@ -487,7 +487,7 @@
   },
   {
     "code": "zh_TW",
-    "displayName": "Chino (Taiwán)",
+    "displayName": "Chinese (Traditional)",
     "runtimeFolder": "zh_TW",
     "rtl": false,
     "runtimeStatus": "active",
