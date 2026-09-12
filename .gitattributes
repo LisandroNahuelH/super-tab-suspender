@@ -1,0 +1,11 @@
+# Normalize line endings for every clone (sha256 handshakes depend on it).
+* text=auto eol=lf
+
+# Binary assets: never touch their bytes.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.zip binary
+*.woff2 binary
