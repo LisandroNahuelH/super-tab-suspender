@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Install the published extension
+    url: "https://chromewebstore.google.com/detail/super-tab-suspender/gkmgfloahebcnfiepanjedmpjnnceggn"
+    about: Get the current version from the Chrome Web Store.
+  - name: Security report
+    url: "https://github.com/LisandroNahuelH/super-tab-suspender/security/policy"
+    about: Report vulnerabilities privately - see SECURITY.md. Do not open a public issue.
