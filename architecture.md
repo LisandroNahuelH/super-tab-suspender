@@ -1,26 +1,9 @@
-# Architecture — Super Tab Suspender
+# Architecture
 
-MV3 extension: service worker suspends inactive tabs to a local `suspended.html` surface; popup controls auto-suspend and manual suspend.
+Canonical design document: **[docs/architecture.md](docs/architecture.md)** - suspension model, runtime surfaces, scheduling, storage keys, localization and diagnostics. Read that one; this file stays as a pointer so the two cannot drift.
 
-## Runtime surfaces
+Repository-local working notes that do not belong in the public design document:
 
-| Surface | Entry | Role |
-| --- | --- | --- |
-| Service worker | `src/background.ts` | Alarms, context menu, tab suspend/restore, storage of suspended metadata |
-| Popup | `src/popup.ts` | Settings UI, active tab preview, heartbeat ping |
-| Content | `src/content.ts` | Page protection signals to SW |
-| Suspended page | `suspended.html` | Frozen tab UX + restore |
-
-## Premium11 diagnostics
-
-```
-SW onInstalled → heartbeat install|update
-Popup open     → heartbeat ping (24h throttle)
-SW boot        → setUninstallURL → /goodbye/super-tab-suspender
-```
-
-Product slug `super-tab-suspender` must match Premium11 `lib/stats/products.ts` allowlist. Install id in `chrome.storage.local` (`stsInstallId`).
-
-## Portability note
-
-Suspend/restore logic lives in the SW and pure helpers; heartbeat is isolated under `src/features/heartbeat/` with no tab business rules inside those modules.
+- Build output `dist/` is what gets loaded unpacked; `npm run verify` is the single gate before packaging.
+- Packaging (`npm run package:release`) is PowerShell-only and produces a store zip under `release/`, which is git-ignored.
+- The agent-facing runbook lives in [AGENTS.md](AGENTS.md); public limits, troubleshooting and privacy notes live under [docs/](docs/).
