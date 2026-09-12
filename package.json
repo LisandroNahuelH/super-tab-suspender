@@ -21,11 +21,11 @@
     "verify": "npm run i18n:check && npm run i18n:audit && npm run i18n:audit-literals && npm run typecheck && npm run test && npm run build"
   },
   "devDependencies": {
-    "@types/chrome": "^0.0.326",
-    "happy-dom": "^20.0.10",
-    "sharp": "^0.35.1",
-    "typescript": "^5.9.3",
-    "vite": "^7.2.7",
-    "vitest": "^3.2.4"
+    "@types/chrome": "^0.2.9",
+    "happy-dom": "^20.14.0",
+    "sharp": "^0.35.4",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2",
+    "vitest": "^5.0.0"
   }
 }
